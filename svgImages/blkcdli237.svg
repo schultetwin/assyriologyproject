@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g334"
+       transform="matrix(0.26458333,0,0,0.26458333,11.957314,4.8664439)">
+      <title
+         id="title330">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon332" />
+    </g>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon422"
+       transform="matrix(0.26458333,0,0,0.26458333,14.867731,3.2789439)">
+      <title
+         id="title436">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g448"
+       transform="matrix(0,-0.26458333,0.26458333,0,15.204016,11.792857)">
+      <title
+         id="title444">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,20 4,20 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon446"
+         transform="rotate(15,26.501525,-67.819102)" />
+    </g>
+    <polygon
+       points="0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 "
+       style="fill:#000000"
+       id="polygon555"
+       transform="matrix(0,-0.26458333,0.26458333,0,15.922247,11.74561)">
+      <title
+         id="title614">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,22 4,22 "
+       style="fill:#000000"
+       id="polygon585"
+       transform="matrix(0,-0.26458333,0.26458333,0,20.684747,15.317523)">
+      <title
+         id="title612">Right Horizontal Mark, RH</title>
+    </polygon>
+    <polygon
+       points="8,22 4,22 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon600"
+       transform="matrix(0,-0.26458333,0.26458333,0,20.684747,8.0943979)">
+      <title
+         id="title610">Right Horizontal Mark, RH</title>
+    </polygon>
+    <g
+       id="g606"
+       transform="matrix(0.26458333,0,0,0.26458333,25.447247,4.8664812)">
+      <title
+         id="title602">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#000000"
+         id="polygon604" />
+    </g>
+    <g
+       id="g634"
+       transform="matrix(0.26458333,0,0,0.26458333,26.042559,9.2698657)">
+      <title
+         id="title630">Right 2 Touch Connector, R2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#000000"
+         id="circle632" />
+    </g>
+    <g
+       id="g651"
+       transform="matrix(0.26458333,0,0,0.26458333,25.995312,5.6790916)">
+      <title
+         id="title647">Northeast Corner Connector, NEC</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#000000"
+         id="circle649" />
+    </g>
+    <g
+       id="g657"
+       transform="matrix(0.26458333,0,0,0.26458333,13.096875,14.089062)">
+      <title
+         id="title653">Other 2 Touch Connector, O2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#000000"
+         id="circle655" />
+    </g>
+    <g
+       id="g663"
+       transform="matrix(0.26458333,0,0,0.26458333,26.042559,12.860639)">
+      <title
+         id="title659">Right 2 Touch Connector, R2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#000000"
+         id="circle661" />
+    </g>
+  </g>
+</svg>

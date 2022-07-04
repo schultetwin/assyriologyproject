@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="0,28 4,28 4,4 0,0 12,0 8,4 8,28 12,28 8,32 8,60 4,60 4,32 "
+       style="fill:#ff0000"
+       id="polygon1550"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.936309,16.526348)">
+      <title
+         id="title1554">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="12,28 8,32 8,60 4,60 4,32 0,28 4,28 4,4 0,0 12,0 8,4 8,28 "
+       style="fill:#ff0000"
+       id="polygon1536"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.936309,9.386452)">
+      <title
+         id="title1552">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <g
+       id="g914"
+       transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,26.926152,9.712854)">
+      <title
+         id="title910" />
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#ff0000"
+         id="polygon912" />
+    </g>
+  </g>
+</svg>

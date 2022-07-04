@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+                  <meta charset="utf-8">
+<style> 
+label {
+	width: 370px;
+	display: inline-block;
+	text-align:right
+	}
+.container {
+	display: grid;
+	grid-template-columns: 1fr  1fr  1fr ;
+	}
+</style>
+	</head>
+	<body>
+	<h2 align = "center">Nuzi</h2>
+ 	<h1 align = "center">ENTER COUNTS OF <scan style="color:red">MARKS</scan> AND <scan style="color:#40eb34">CONNECTORS</scan></h1>
+	<br><br>
+<form action= "newnztvector.php"  method = "post">
+
+
+<div class = "container">	
+<div style = "color:red"  >
+
+<label for "DV">DOWN VERTICAL <img src = "signimages/DV.png" /> DV </label>
+<input align "right"  type = "number"  size = "1" id = "DV" name = "DV" min = "0" max = "50" value = "0">
+	<br>
+<label for "LH">LEFT HORIZONTAL <img src = "signimages/LH.png" /> LH </label>
+<input type = "number" size = "1" id = "LH" name = "LH" min = "0" max = "50" value = "0">
+	<br>
+<label for "UV">UP VERTICAL  <img src = "signimages/UV.png" /> UV </label>
+<input type = "number" size = "1" id = "UV" name = "UV" min = "0" max = "50" value = "0">
+	<br>
+<label for "RH">RIGHT HORIZONTAL  <img src = "signimages/RH.png" />   RH </label>
+<input type = "number" size = "1" id = "RH" name = "RH" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "VL">VERTICAL LINE <img src = "signimages/VL.png" />  VL </label>
+<input type = "number" size = "1" id = "VL" name = "VL" min = "0" max = "50" value = "0">
+	<br>
+<label for "UDL">UP DIAGONAL LINE <img src = "signimages/UDL.png" /> UDL </label>
+<input type = "number" size = "1" id = "UDL" name = "UDL" min = "0" max = "50" value = "0">
+	<br>
+<label for "HL">HORIZONTAL LINE <img src = "signimages/HL.png" /> HL </label>
+<input type = "number" size = "1" id = "HL" name = "HL" min = "0" max = "50" value = "0">
+	<br>
+<label for "DDL">DOWN DIAGONAL LINE <img src = "signimages/DDL.png" /> DDL </label>
+<input type = "number" size = "1" id = "DDL" name = "DDL" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "RDD">RIGHT DOWN DIAGONAL <img src = "signimages/RDD.png" /> RDD </label>
+<input type = "number" size = "1" id = "RDD" name = "RDD" min = "0" max = "50" value = "0">
+	<br>
+<label for "BDD">BACK DOWN DIAGONAL <img src = "signimages/BDD.png" /> BDD </label>
+<input type = "number" size = "1" id = "BDD" name = "BDD" min = "0" max = "50" value = "0">
+	<br>
+<label for "BUD">BACK UP DIAGONAL  <img src = "signimages/BUD.png" /> BUD </label>
+<input type = "number" size = "1" id = "BUD" name = "BUD" min = "0" max = "50" value = "0">
+	<br>
+<label for "RUD">RIGHT UP DIAGONAL <img src = "signimages/RUD.png" /> RUD </label>
+<input type = "number" size = "1" id = "RUD" name = "RUD" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "ORDD">RIGHT DOWN DIAGONAL OVERWRITE <img src = "signimages/ORDD.png" /> ORDD </label>
+<input type = "number" size = "1" id = "ORDD" name = "ORDD" min = "0" max = "50" value = "0">
+	<br>
+<label for "OBDD">BACK DOWN DIAGONAL OVERWRITE <img src = "signimages/OBDD.png" />  OBDD </label>
+<input type = "number" size = "1" id = "OBDD" name = "OBDD" min = "0" max = "50" value = "0">
+	<br>
+<label for "OBUD">BACK UP DIAGONAL OVERWRITE <img src = "signimages/OBUD.png" /> OBUD </label>
+<input type = "number" size = "1" id = "ORUD" name = "ORUD" min = "0" max = "50" value = "0">
+	<br>
+<label for "ORUD">RIGHT UP DIAGONAL OVERWRITE <img src = "signimages/ORUD.png" /> ORUD </label>
+<input type = "number" size = "1" id = "ORUD" name = "ORUD" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "HE">HEEL <img src = "signimages/HE.png" />  HE </label>
+<input type = "number" size = "1" id = "HE" name = "HE" min = "0" max = "50" value = "0">
+	<br>
+<label for "OHE">HEEL OVERWRITE <img src = "signimages/OHE.png" /> OHE </label>
+<input type = "number" size = "1" id = "OHE" name = "OHE" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "DVBB">DOWN VERTICAL BARBELL <img src = "signimages/DVBB.png" /> DVBB </label>
+<input type = "number" size = "1" id = "DVBB" name = "DVBB" min = "0" max = "50" value = "0">
+	<br>
+<label for "LHBB">LEFT HORIZONTAL BARBELL  <img src = "signimages/LHBB.png" /> LHBB </label>
+<input type = "number" size = "1" id = "LHBB" name = "LHBB" min = "0" max = "50" value = "0">
+	<br>
+<label for "UVBB">UP VERTICAL BARBELL  <img src = "signimages/UVBB.png" />  UVBB </label>
+<input type = "number" size = "1" id = "UVBB" name = "UVBB" min = "0" max = "50" value = "0">
+	<br>
+<label for "RHBB">RIGHT HORIZONTAL BARBELL  <img src = "signimages/RHBB.png" /> RHBB </label>
+<input type = "number" size = "1" id = "RHBB" name = "RHBB" min = "0" max = "50" value = "0">
+	<br>
+<label for "OBB">OTHER BARBELL   OBB </label>
+<input type = "number" size = "1" id = "OBB" name = "OBB" min = "0" max = "50" value = "0">
+	<br><br>     
+<label for "DVHT">DOWN VERTICAL HEAD-TO-TAIL  <img src = "signimages/DVHT.png" />  DVHT </label>
+<input type = "number" size = "1" id = "DVHT" name = "DVHT" min = "0" max = "50" value = "0">
+	<br>
+<label for "LHHT">LEFT HORIZONTAL HEAD-TO-TAIL  <img src = "signimages/LHHT.png" /> LHHT </label>
+<input type = "number" size = "1" id = "LHHT" name = "LHHT" min = "0" max = "50" value = "0">
+	<br>
+<label for "UVHT">UP VERTICAL HEAD-TO-TAIL  <img src = "signimages/UVHT.png" />  UVHT </label>
+<input type = "number" size = "1" id = "UVHT" name = "UVHT" min = "0" max = "50" value = "0">
+	<br>
+<label for "RHHT">RIGHT HORIZONTAL HEAD-TO-TAIL  <img src = "signimages/RHHT.png" /> RHHT </label>
+<input type = "number" size = "1" id = "RHHT" name = "RHHT" min = "0" max = "50" value = "0">
+	<br>
+<label for "OHT">OTHER HEAD-TO-TAIL   OHT </label>
+<input type = "number" size = "1" id = "OHT" name = "OHT" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "DNGR">DINGER <img src = "signimages/DNGR.png" /> DNGR </label>
+<input type = "number" size = "1" id = "DNGR" name = "DNGR" min = "0" max = "50" value = "0">
+	<br><br>
+</div>
+
+<div> 
+<p>The marks and connectors listed here are assumed to be all that will ever be needed by any class of signs or conceivable distance. Because the different orientations are considered separately it may seem a lot, but it quickly becomes intuitive.
+</p>
+<br>
+<p>
+<p style = "text-align:center;"><label for "MAXDT"> MAXIMUM DISTANCE  MAXDT </label>
+</p>
+<p style = "text-align:center;"><input  type = "number"  size = "1" id = "MAXDT" name = "MAXDT" min = "0" max = "50" value = "3">
+</p>
+<p>
+It is not difficult to count marks and connectors correctly as long as you pay attention to the connectors.  For example, do not miss the 3Ts, 4Ts, or corners.
+</p>
+<p>
+A 3-TOUCH is a point where three different marks touch in some way.  There is no little picture shown because this can happen in several different ways.  Also for a 4-TOUCH.
+</p>
+<p>
+The UNKNOWN on the lower right here is used to count things that are neither a recognized mark or a recognized connector.  They do occur but very rarely.
+</p>
+<p>
+TO GO BACK JUST CLICK ON THE UPPER LEFT CORNER ARROW.  YOUR CURRENT COUNTS WILL STILL BE THERE.
+</p>
+<p>
+TO LOOK AT THE ENTIRE TABLE LEAVE ALL THE COUNTS ZERO AND SET MAXDT EQUAL TO A LARGE NUMBER, SAY 50.  THE DISTANCE SHOWN BETWEEN THE ZERO tvector AND EACH nzxvector IS THE SIZE OF THAT  nzxvector.
+</p>
+</div>
+
+<div style = "color:#40eb34"  align "right">
+<label for "L2T">LEFT 2-TOUCH <img src = "signimages/L2T.png" /> L2T </label>
+<input type = "number" size = "1" id = "L2T" name = "L2T" min = "0" max = "50" value = "0">
+	<br>
+<label for "R2T">RIGHT 2-TOUCH <img src = "signimages/R2T.png" /> R2T </label>
+<input type = "number" size = "1" id = "R2T" name = "R2T" min = "0" max = "50" value = "0">
+	<br>
+<label for "T2T">TOP 2-TOUCH <img src = "signimages/T2T.png" /> T2T </label>
+<input type = "number" size = "1" id = "T2T" name = "T2T" min = "0" max = "50" value = "0">
+	<br>
+<label for "B2T">BOTTOM 2-TOUCH <img src = "signimages/B2T.png" /> B2T </label>
+<input type = "number" size = "1" id = "B2T" name = "B2T" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "H2T">HORIZONTAL 2-TOUCH <img src = "signimages/H2T.png" /> H2T </label>
+<input type = "number" size = "1" id = "H2T" name = "H2T" min = "0" max = "50" value = "0">
+	<br>
+<label for "V2T">VERTICAL 2-TOUCH <img src = "signimages/V2T.png" />  V2T </label>
+<input type = "number" size = "1" id = "V2T" name = "V2T" min = "0" max = "50" value = "0">
+	<br>
+<label for "O2T">OTHER 2-TOUCH  O2T </label>
+<input type = "number" size = "1" id = "O2T" name = "O2T" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "NWC">NW-CORNER <img src = "signimages/NWC.png" />  NWC </label>
+<input type = "number" size = "1" id = "NWC" name = "NWC" min = "0" max = "50" value = "0">
+	<br>
+<label for "NEC">NE-CORNER <img src = "signimages/NEC.png" /> NEC </label>
+<input type = "number" size = "1" id = "NEC" name = "NEC" min = "0" max = "50" value = "0">
+	<br>
+<label for "SEC">SE-CORNER <img src = "signimages/SEC.png" /> SEC </label>
+<input type = "number" size = "1" id = "SEC" name = "SEC" min = "0" max = "50" value = "0">
+	<br>
+<label for "SWC">SW-CORNER  <img src = "signimages/SWC.png" /> SWC </label>
+<input type = "number" size = "1" id = "SWC" name = "SWC" min = "0" max = "50" value = "0">
+	<br>
+<label for "RMC">RIGHT MIDDLE CORNER <img src = "signimages/RMC.png" />  RMC </label>
+<input type = "number" size = "1" id = "RMC" name = "RMC" min = "0" max = "50" value = "0">
+	<br>
+<label for "TMC">TOP MIDDLE CORNER <img src = "signimages/TMC.png" />  TMC </label>
+<input type = "number" size = "1" id = "TMC" name = "TMC" min = "0" max = "50" value = "0">
+	<br>	
+<label for "BMC">BOTTOM MIDDLE CORNER <img src = "signimages/BMC.png" />  BMC </label>
+<input type = "number" size = "1" id = "BMC" name = "BMC" min = "0" max = "50" value = "0">
+	<br>	
+<label for "LMC">LEFT MIDDLE CORNER <img src = "signimages/LMC.png" /> LMC </label>
+<input type = "number" size = "1" id = "LMC" name = "LMC" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "2C">2-CROSS <img src = "signimages/2C.png" /> 2C </label>
+<input type = "number" size = "1" id = "2C" name = "2C" min = "0" max = "50" value = "0">
+	<br><br>
+<label for "3T"> 3-TOUCH  3T </label>
+<input type = "number" size = "1" id = "3T" name = "3T" min = "0" max = "50" value = "0">
+	<br>
+<label for "4T"> 4-TOUCH  4T </label>
+<input type = "number" size = "1" id = "4T" name = "4T" min = "0" max = "50" value = "0">
+	<br><br>
+<span style = "color: black">
+<label for "UNKN"> UNKNOWN </label>
+<input type = "number" size = "1" id = "UNKN" name = "UNKN" min = "0" max = "50" value = "0">
+</span>
+<br>
+
+
+
+<p style = "text-align:right;"><input type = "submit" name = "submit" value = "Next">
+
+  
+
+
+</div>
+</div>
+
+	</form>	
+	</body>
+</html>

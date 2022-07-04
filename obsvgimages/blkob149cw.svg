@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.284226,11.651116)">
+      <title
+         id="title853">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon855" />
+    </g>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon875"
+       transform="matrix(0.26458333,0,0,0.26458333,10.696726,6.6505667)" />
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#000000"
+       id="polygon889"
+       transform="matrix(0.26458333,0,0,0.26458333,10.696726,10.40765)" />
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon891"
+       transform="matrix(0.26458333,0,0,0.26458333,21.227256,6.6505667)" />
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#000000"
+       id="polygon893"
+       transform="matrix(0.26458333,0,0,0.26458333,21.200798,10.40765)" />
+  </g>
+</svg>

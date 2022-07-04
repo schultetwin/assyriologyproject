@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g848"
+       transform="matrix(0.09049283,-0.248627,0.248627,0.09049283,11.058926,6.3850072)">
+      <title
+         id="title844">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,72 4,72 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon846" />
+    </g>
+    <g
+       id="g865"
+       transform="matrix(0.09049283,-0.248627,0.248627,0.09049283,11.058926,8.8456322)">
+      <title
+         id="title861">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,72 4,72 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon863" />
+    </g>
+    <g
+       id="g871"
+       transform="matrix(-0.09049283,-0.248627,0.248627,-0.09049283,12.286581,13.465702)">
+      <title
+         id="title867">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="8,4 8,72 4,72 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon869" />
+    </g>
+    <g
+       id="g877"
+       transform="matrix(-0.09049283,-0.248627,0.248627,-0.09049283,12.286581,15.926329)">
+      <title
+         id="title873">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="12,0 8,4 8,72 4,72 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon875" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="24.42671"
+       cy="9.6856394"
+       r="0.79374999">
+      <title
+         id="title895">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle899"
+       cx="21.355654"
+       cy="8.5044641"
+       r="0.79374999">
+      <title
+         id="title897">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle903"
+       cx="17.859373"
+       cy="9.7328863"
+       r="0.79374999">
+      <title
+         id="title901">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle907"
+       cx="21.497395"
+       cy="10.914062"
+       r="0.79374999">
+      <title
+         id="title905">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

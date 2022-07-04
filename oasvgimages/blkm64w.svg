@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 "
+       style="fill:black"
+       id="polygon851"
+       transform="matrix(0.26458333,0,0,0.26458333,31.10744,5.1971722)">
+      <title
+         id="title865">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <g
+       id="g885"
+       transform="matrix(0,-0.26458333,0.26458333,0,21.591889,15.430878)">
+      <title
+         id="title881">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:black"
+         id="polygon883" />
+    </g>
+    <g
+       id="g902"
+       transform="matrix(0,-0.26458333,0.26458333,0,21.58244,8.901377)">
+      <title
+         id="title898">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:black"
+         id="polygon900" />
+    </g>
+    <g
+       id="g922"
+       transform="matrix(0.26458333,0,0,0.26458333,26.486682,9.5911464)">
+      <title
+         id="title918">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:black"
+         id="polygon920" />
+    </g>
+    <g
+       id="g939"
+       transform="matrix(0.26458333,0,0,0.26458333,23.311682,9.5911464)">
+      <title
+         id="title935">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:black"
+         id="polygon937" />
+    </g>
+   
+    
+  
+    
+  </g>
+</svg>

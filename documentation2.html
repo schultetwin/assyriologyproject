@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    p {margin: 1vw 10vw 1vw 10vw;}
+</style>
+</head>
+<body>
+    
+</body>
+</html>
+<p>   
+The easiest thing to do is to ignore this documentation and just start using the system, but use it first on a desktop computer.  The <span style=color:red><b>marks</b></span> are red and the <span style=color:green><b>connectors</b></span> are green dots. Carefully hovering over the edge of one of them reveals after a tiny delay its type.  Good luck.
+</p>
+<p> Your counts of the marks and connectors of a sign are information about that sign.  Often it is enough to identify it.  
+</p>
+<p>
+HOW THE SYSTEM WORKS
+</p>
+<p>
+The system works by comparing your
+       counts  with the counts of each sign in this system's large database.
+         Signs in the database with counts close to your counts are output as 
+         candidates where "close" is determined by the distance function used by the 
+         system.  For example, the distance between the following two signs,   
+         &#x12000   &#x1235d, is 2 because the first sign has 1 more DV than the 
+         second and the second sign has one more DVHT than the first. The counts for 
+         this next sign &#x121aa are DV=2, RH=3, NWC=1, SWC=1, NEC=1, SEC=1, R2T=1, 
+         and the distance between it and &#x12000 is 10.  This is a large distance and 
+         these two signs are not "close" to one another.  Still for complicated signs with many          marks and connectors
+         10 might not be too large. The default distance for MAXDT, 
+         the maximum allowed distance, is 3, but you can change this to whatever you want. For          simple signs 0 or 1 is a good choice, 
+         and it should be larger for complicated signs.  Larger MAXDTs usually yield more          candidates.
+</p>
+<p>And, the system works on tablets and smartphones.  You can see this on a desktop: A wide window has three columns, as you narrow it it switches to two columns, then one column.  The font size changes, too. </p>
+<p>
+ERROR DETECTION
+</p>
+<p>   
+First, the user can mouse cover the red marks and green connectors to see that they are correctly labeled. If they are, it gives the user counts.
+</p>
+<p>
+Second, the user can compare the above counts with the counts returned from the system database.  These two counts are created independently of one another.  They should be the same.
+</p>
+<p>
+Errors do occur.  Please let me know if you find one.
+</p>
+<p>
+WHY THE SYSTEM WORKS
+</p>
+<p>
+There are three main reasons why the system works:
+</p>
+<p>
+First, we count the connectors also and not merely the marks. Just counting the marks would often produce too many, obviously wrong candidates.  The connectors provide indirect information about the geometric form of the sought after sign. For not-too-large MAXDTs the candidates in a collection of candidates usually look similar to one another.
+</p>
+<p>
+Second, we do not require equality of the counts of the input with the counts of a candidate. That would be far too demanding.  Instead, we introduce distance.  This allows candidates which are correct but with different counts to be displayed as candidates.  There is more about how distance works in the section "More Documentation" below.
+</p>
+<p>  
+Third, if something is missing from the system database, we just add it!  For example, a variation of a sign not yet in the database can always be added.   At the moment (12/11/2021) the sign for ANŠE needs a few more versions added to the database that are not close to what is already in the database nor to each other.
+</p>
+<p>
+The system  usually finds all the candidates that are equal to or similar 
+to what you are looking for.  If no candidates are presented, go back to the previous
+page and increase MAXDT and/or adjust your counts.  Be ready to switch between HEs and RDDs; they look alike on a tablet.  Maybe something touches or maybe it does not.
+</p>
+<p>
+Although the heel marks &#x1230b are counted, the connections of heels to other heels and marks are often awkward to count so these connections are not counted in the system's database. However, the Barbell sign &#x12041 and its other orientations are each counted as a single mark and not a combination of two marks, and any connection to the heel at the one end is ignored.  Head-to-Tail marks &#x12400 are also one mark, not two.
+</p>
+<p>ABOUT LARGE, COMPLEX SIGNS </p>
+<p> The size of a sign is its total number of marks and connectors.  There is no sign with a size greater than 50.  To see the sizes of all the signs in, for example, Kanesh do a search with all zero counts and MAXDT=50.  The signs will be ordered in increasing sizes, the large signs at the end.
+</p>
+<p>Sometimes it is difficult to count the marks and connectors of a large, complex sign on a tablet because of the way it was written.  You can make a guess, but your guess could be far distant, perhaps much more than 50, from the correct candidates in the system.  In such cases it is often better not to guess at the counts and to guess merely at the size of sign.  This is usually easy even if the written sign is a mess. Then enter an all zero count and MAXDT = the guessed size. What you are looking for will be at or near the end of the outputs or you may have to increase the guessed size.  And here is an often useful variation on this approach.  Suppose you can see clearly a few of the marks and connectors, but the rest is a mess.  Input the counts of what you can see, guess at the number remaining not what they are just the number, and  set MAXDT equal to your guess.  What you are looking for will again be at or near the end of the outputs.</p>
+
+<p>For the technically minded only: Ids are given out in order.  Do not worry if you see an id larger than the total number entries. This happens when entries are deleted.  Their ids cannot be reused. New entries get new, bigger ids.</p>
+
+<p>
+For a bit more documentation, a bit more in the details, click on 
+<a href = "examples.php">More Documentation</a>
+</p>

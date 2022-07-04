@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="18.315182"
+   height="15"
+   viewBox="0 0 4.8458917 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-18.885462,-10.063616)">
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1203"
+       transform="matrix(0.09530446,0,0,0.09530446,18.885462,11.484673)">
+      <title
+         id="title1217">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1319"
+       transform="matrix(0.09530446,0,0,0.09530446,20.91749,10.910151)">
+      <title
+         id="title1317">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon1323"
+       transform="matrix(0.09530446,0,0,0.09530446,21.649333,10.885617)">
+      <title
+         id="title1321">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1327"
+       transform="matrix(0.09530446,0,0,0.09530446,20.879368,12.044274)">
+      <title
+         id="title1325">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1331"
+       transform="matrix(0.09530446,0,0,0.09530446,21.649333,12.02927)">
+      <title
+         id="title1329">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="12,0 8,4 8,35 12,40 0,40 4,35 4,4 0,0 "
+       style="fill:#ff0000"
+       id="polygon1171"
+       transform="matrix(0,-0.09530446,0.09530446,0,19.834082,11.207269)">
+      <title
+         id="title1185">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="8,4 8,35 12,40 0,40 4,35 4,4 0,0 12,0 "
+       style="fill:#ff0000"
+       id="polygon1189"
+       transform="matrix(0,-0.09530446,0.09530446,0,19.919176,14.032366)">
+      <title
+         id="title1187">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+  </g>
+</svg>

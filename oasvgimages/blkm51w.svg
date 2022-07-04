@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,25.823335,4.2333333)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:black"
+         id="polygon855" />
+    </g>
+    <g
+       id="g874"
+       transform="matrix(0.26458333,0,0,0.26458333,20.826414,3.9952083)">
+      <title
+         id="title870">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:black"
+         id="polygon872" />
+    </g>
+    <g
+       id="g880"
+       transform="matrix(0.26458333,0,0,0.26458333,16.224628,4.2333333)">
+      <title
+         id="title876">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:black"
+         id="polygon878" />
+    </g>
+    <g
+       id="g886"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.277292,6.2970833)">
+      <title
+         id="title882">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon884" />
+    </g>
+    <g
+       id="g892"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.052396,11.479214)">
+      <title
+         id="title888">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon890" />
+    </g>
+    <g
+       id="g898"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.145,16.721667)">
+      <title
+         id="title894">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:black"
+         id="polygon896" />
+    </g>
+    <g
+       id="g904"
+       transform="matrix(0.26458333,0,0,0.26458333,7.2476935,4.4223214)">
+      <title
+         id="title900">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:black"
+         id="polygon902" />
+    </g>
+    <g
+       id="g910"
+       transform="matrix(0,-0.26458333,0.26458333,0,3.7268453,10.01259)">
+      <title
+         id="title906">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon908" />
+    </g>
+    <g
+       id="g916"
+       transform="matrix(0,-0.26458333,0.26458333,0,3.7268453,13.18759)">
+      <title
+         id="title912">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:black"
+         id="polygon914" />
+    </g>
+       
+   
+  </g>
+</svg>

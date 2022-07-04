@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g286"
+       transform="matrix(0.26458333,0,0,0.26458333,10.460491,6.5256833)">
+      <title
+         id="title282">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,35 4,35 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon284" />
+    </g>
+    <polygon
+       points="0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 "
+       style="fill:#ff0000"
+       id="polygon300"
+       transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,8.0228309,3.9064419)">
+      <title
+         id="title314">Other Head-to-Tail Mark, OHT</title>
+    </polygon>
+    <g
+       id="g262"
+       transform="matrix(0.26458333,0,0,0.26458333,11.301489,5.9153276)">
+      <title
+         id="title258">Other 2 Touch Connector, O2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle260" />
+    </g>
+  </g>
+</svg>

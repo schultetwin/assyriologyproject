@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="m59w.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="85.2089"
+     inkscape:cy="53.520356"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1755"
+     inkscape:window-height="1020"
+     inkscape:window-x="143"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g34"
+       transform="matrix(0.26458333,0,0,0.26458333,25.877195,4.7624999)">
+      <title
+         id="title30">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:black"
+         id="polygon32" />
+    </g>
+    <g
+       id="g51"
+       transform="matrix(0,-0.26458333,0.26458333,0,16.352195,7.9374999)">
+      <title
+         id="title47">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,55 4,55 "
+         style="fill:black"
+         id="polygon49"
+         transform="translate(0,-15.299572)" />
+    </g>
+    <g
+       id="g57"
+       transform="matrix(0,-0.26458333,0.26458333,0,16.352195,16.404167)">
+      <title
+         id="title53">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:black"
+         id="polygon55" />
+    </g>
+    <polygon
+       points="4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:black"
+       id="polygon61"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.911347,13.817033)">
+      <title
+         id="title83">Right Horizontal Mark, RH</title>
+    </polygon>
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,35 4,35 "
+       style="fill:black"
+       id="polygon77"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.911347,10.642033)">
+      <title
+         id="title81">Right Horizontal Mark, RH</title>
+    </polygon>
+   
+    
+    
+   
+    <g
+       id="g857"
+       transform="matrix(0.11024305,0,0,0.11024305,13.671021,8.2901897)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:black"
+         id="polygon855" />
+    </g>
+    <g
+       id="g1004"
+       transform="matrix(0.11024305,0,0,0.11024305,15.470251,8.2901897)">
+      <title
+         id="title1000">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:black"
+         id="polygon1002" />
+    </g>
+    <g
+       id="g1010"
+       transform="matrix(0,-0.11024305,0.11024305,0,12.575647,11.188964)">
+      <title
+         id="title1006">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:black"
+         id="polygon1008" />
+    </g>
+    
+    
+  </g>
+</svg>

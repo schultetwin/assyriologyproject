@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g448"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.420866,10.958437)">
+      <title
+         id="title444">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon446" />
+    </g>
+    <g
+       id="g938"
+       transform="matrix(0.26458333,0,0,0.26458333,28.898102,7.6491501)">
+      <title
+         id="title934">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="12,0 8,4 8,10 4,10 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon936"
+         transform="rotate(-45,6,5)" />
+      <polygon
+         points="12,0 8,4 8,10 4,10 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon951"
+         transform="rotate(-45,6,5)" />
+    </g>
+    <g
+       id="g959"
+       transform="matrix(0.26458333,0,0,0.26458333,20.618601,5.8473378)">
+      <title
+         id="title953">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="0,0 12,0 8,4 8,10 4,10 4,4 "
+         style="fill:#ff0000"
+         id="polygon955"
+         transform="rotate(-45,6,5)" />
+      <polygon
+         points="0,0 12,0 8,4 8,10 4,10 4,4 "
+         style="fill:#ff0000"
+         id="polygon957"
+         transform="rotate(-45,6,5)" />
+    </g>
+    <g
+       id="g967"
+       transform="matrix(0.26458333,0,0,0.26458333,23.986197,5.7187503)">
+      <title
+         id="title961">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon963"
+         transform="rotate(-45,6,5)" />
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon965"
+         transform="rotate(-45,6,5)" />
+    </g>
+    <g
+       id="g975"
+       transform="matrix(0.26458333,0,0,0.26458333,20.733854,11.008557)">
+      <title
+         id="title969">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="0,0 12,0 8,4 8,10 4,10 4,4 "
+         style="fill:#ff0000"
+         id="polygon971"
+         transform="rotate(-45,6,5)" />
+      <polygon
+         points="0,0 12,0 8,4 8,10 4,10 4,4 "
+         style="fill:#ff0000"
+         id="polygon973"
+         transform="rotate(-45,6,5)" />
+    </g>
+    <g
+       id="g983"
+       transform="matrix(0.26458333,0,0,0.26458333,24.56264,11.015973)">
+      <title
+         id="title977">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon979"
+         transform="rotate(-45,6,5)" />
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon981"
+         transform="rotate(-45,6,5)" />
+    </g>
+    <g
+       id="g991"
+       transform="matrix(0.26458333,0,0,0.26458333,13.994652,8.0423211)">
+      <title
+         id="title985">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon987"
+         transform="rotate(-45,6,5)" />
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon989"
+         transform="rotate(-45,6,5)" />
+    </g>
+  </g>
+</svg>

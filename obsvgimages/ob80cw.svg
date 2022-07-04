@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,24.729092,5.1499256)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,35 4,35 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g857-1"
+       transform="matrix(0,-0.26458333,0.26458333,0,15.204092,7.7163084)">
+      <title
+         id="title853-7">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,50 4,50 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon855-8"
+         transform="translate(0,-9.600285)" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle904"
+       cx="26.222099"
+       cy="6.1155791"
+       r="0.79374999">
+      <title
+         id="title902">Northeast Corner Connector, NEC</title>
+    </circle>
+    <g
+       id="g910"
+       transform="matrix(0,-0.26458333,0.26458333,0,16.050758,14.67485)">
+      <title
+         id="title906">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,50 4,50 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon908"
+         transform="translate(0,-9.600285)" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="26.269346"
+       cy="13.034433"
+       r="0.79374999">
+      <title
+         id="title900">Right 2 Touch Connector, R2T</title>
+    </circle>
+  </g>
+</svg>

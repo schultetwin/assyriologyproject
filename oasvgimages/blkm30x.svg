@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g886"
+       transform="matrix(0,-0.26458333,0.26458333,0,23.340029,12.429596)">
+      <title
+         id="title882">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon884" />
+    </g>
+    <g
+       id="g921"
+       transform="matrix(0,-0.26458333,0.26458333,0,16.725446,13.911262)">
+      <title
+         id="title917">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon919" />
+    </g>
+    <g
+       id="g927"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.194131,13.911262)">
+      <title
+         id="title923">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,25 4,25 4,4 0,0 "
+         style="fill:black"
+         id="polygon925" />
+    </g>
+    <g
+       id="g933"
+       transform="matrix(0,-0.26458333,0.26458333,0,16.725446,10.789179)">
+      <title
+         id="title929">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon931" />
+    </g>
+    <g
+       id="g940"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.110862,10.789179)">
+      <title
+         id="title935">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon938" />
+    </g>
+    
+    
+   
+  </g>
+</svg>

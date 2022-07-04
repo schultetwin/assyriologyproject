@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,25.823335,4.2333333)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g874"
+       transform="matrix(0.26458333,0,0,0.26458333,20.826414,3.9952083)">
+      <title
+         id="title870">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon872" />
+    </g>
+    <g
+       id="g880"
+       transform="matrix(0.26458333,0,0,0.26458333,16.224628,4.2333333)">
+      <title
+         id="title876">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon878" />
+    </g>
+    <g
+       id="g886"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.277292,6.2970833)">
+      <title
+         id="title882">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon884" />
+    </g>
+    <g
+       id="g892"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.052396,11.479214)">
+      <title
+         id="title888">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon890" />
+    </g>
+    <g
+       id="g898"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.145,16.721667)">
+      <title
+         id="title894">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon896" />
+    </g>
+    <g
+       id="g904"
+       transform="matrix(0.26458333,0,0,0.26458333,7.2476935,4.4223214)">
+      <title
+         id="title900">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon902" />
+    </g>
+    <g
+       id="g910"
+       transform="matrix(0,-0.26458333,0.26458333,0,3.7268453,10.01259)">
+      <title
+         id="title906">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon908" />
+    </g>
+    <g
+       id="g916"
+       transform="matrix(0,-0.26458333,0.26458333,0,3.7268453,13.18759)">
+      <title
+         id="title912">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon914" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="18.237352"
+       cy="15.024551"
+       r="0.79374999">
+      <title
+         id="title978">Southwest Corner Connector, SWC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle934"
+       cx="8.7879467"
+       cy="11.528274"
+       r="0.79374999">
+      <title
+         id="title940">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle944"
+       cx="8.8351936"
+       cy="8.3154755"
+       r="0.79374999">
+      <title
+         id="title942">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle948"
+       cx="22.536831"
+       cy="9.8746271"
+       r="0.79374999">
+      <title
+         id="title946">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle950"
+       cx="18.426338"
+       cy="9.8746262"
+       r="0.79374999">
+      <title
+         id="title952">Left 2 Touch Connector, L2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle956"
+       cx="27.261532"
+       cy="9.96912"
+       r="0.79374999">
+      <title
+         id="title954">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle960"
+       cx="22.442335"
+       cy="5.0081825"
+       r="0.79374999">
+      <title
+         id="title958">Top 2 Touch Connector, T2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle962"
+       cx="22.489582"
+       cy="14.930058"
+       r="0.79374999">
+      <title
+         id="title964">Bottom 2 Touch Connector, B2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle966"
+       cx="27.592262"
+       cy="14.930058"
+       r="0.79374999">
+      <title
+         id="title972">Southeast Corner Connector, SEC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle968"
+       cx="27.450521"
+       cy="4.6302066"
+       r="0.79374999">
+      <title
+         id="title974">Northeast Corner Connector, NEC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle970"
+       cx="18.095612"
+       cy="4.9136887"
+       r="0.79374999">
+      <title
+         id="title976">Northwext Corner Connector, NWC</title>
+    </circle>
+  </g>
+</svg>

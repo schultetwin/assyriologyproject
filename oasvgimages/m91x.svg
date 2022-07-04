@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0,-0.26458333,0.26458333,0,11.104827,6.8035712)">
+      <title
+         id="title853">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g888"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.23694,12.034668)">
+      <title
+         id="title884">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,35 4,4 0,0 12,0 8,4 8,35 "
+         style="fill:#ff0000"
+         id="polygon886" />
+    </g>
+    <g
+       id="g917"
+       transform="matrix(0.04594441,-0.26056371,0.26056371,0.04594441,11.147803,16.576026)">
+      <title
+         id="title913">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon915" />
+    </g>
+    <g
+       id="g937"
+       transform="matrix(0.26458333,0,0,0.26458333,21.68816,4.6869046)">
+      <title
+         id="title933">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,48 4,4 0,0 12,0 8,4 8,48 "
+         style="fill:#ff0000"
+         id="polygon935"
+         transform="translate(-3.6995705)" />
+    </g>
+    <g
+       id="g954"
+       transform="matrix(0.26458333,0,0,0.26458333,30.57816,4.6869046)">
+      <title
+         id="title950">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,48 4,48 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon952"
+         transform="translate(-3.6995705)" />
+    </g>
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,30 4,30 "
+       style="fill:#ff0000"
+       id="polygon958"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.846619,9.0714292)">
+      <title
+         id="title1044">Right Horizontal Mark, RH</title>
+    </polygon>
+    <polygon
+       points="4,30 4,4 0,0 12,0 8,4 8,30 "
+       style="fill:#ff0000"
+       id="polygon962"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.846619,14.73355)">
+      <title
+         id="title1046">Right Horizontal Mark, RH</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon978"
+       transform="matrix(0.26458333,0,0,0.26458333,25.25618,10.772208)">
+      <title
+         id="title1058">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon992"
+       transform="matrix(0.26458333,0,0,0.26458333,23.870972,7.0680412)">
+      <title
+         id="title1056">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon994"
+       transform="matrix(0.26458333,0,0,0.26458333,25.908376,7.1738746)">
+      <title
+         id="title1054">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon996"
+       transform="matrix(0.26458333,0,0,0.26458333,27.919211,7.1474164)">
+      <title
+         id="title1052">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1018"
+       transform="matrix(0.26458333,0,0,0.26458333,10.125982,5.2688744)">
+      <title
+         id="title1014">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon1016" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1082"
+       cx="22.255125"
+       cy="5.3578119"
+       r="0.79374999">
+      <title
+         id="title1080">Northeast Corner Connector, NEC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1088"
+       cx="11.813533"
+       cy="5.4050584"
+       r="0.79374999">
+      <title
+         id="title1090">Northwest Corner Connector, NWC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1102"
+       cx="22.066137"
+       cy="16.838839"
+       r="0.79374999">
+      <desc
+         id="desc1098">Not a right angle; therefore, other 2 touch connector.</desc>
+      <title
+         id="title1100">Other 2 Touch Connector, O2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1122"
+       cx="30.665098"
+       cy="7.4366827"
+       r="0.79374999">
+      <title
+         id="title1120">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1126"
+       cx="30.665098"
+       cy="13.011833"
+       r="0.79374999">
+      <title
+         id="title1124">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <g
+       id="g1216"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.23694,14.759877)">
+      <title
+         id="title1212">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,35 4,4 0,0 12,0 8,4 8,35 "
+         style="fill:#ff0000"
+         id="polygon1214" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1114"
+       cx="21.463224"
+       cy="10.460491"
+       r="0.79374999">
+      <title
+         id="title1112">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <g
+       id="g1222"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.23694,9.0977928)">
+      <title
+         id="title1218">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,35 4,35 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon1220" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1226"
+       cx="12.427746"
+       cy="7.5311751"
+       r="0.79374999">
+      <title
+         id="title1224">Left 2 Touch Connector, L2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1230"
+       cx="12.380499"
+       cy="10.413243"
+       r="0.79374999">
+      <title
+         id="title1228">Left 2 Touch Connector, L2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1234"
+       cx="12.474994"
+       cy="13.153571"
+       r="0.79374999">
+      <title
+         id="title1232">Left 2 Touch Connector, L2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1092"
+       cx="11.955274"
+       cy="15.0907"
+       r="0.79374999">
+      <desc
+         id="desc1096">Not a right angle; therefore, other 2 touch connector.</desc>
+      <title
+         id="title1094">Other 2 Touch Connector, O2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1138"
+       cx="22.030264"
+       cy="7.5311751"
+       r="0.79374999">
+      <title
+         id="title1136">3 Touch Connector, 3T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1104"
+       cx="21.982903"
+       cy="13.185738"
+       r="0.79374999">
+      <title
+         id="title1106">3 Touch Connector, 3T</title>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+     <g>
+            <title> RHBB: A right horizontal barbell mark </title>
+            <polygon points="0, 0, 4, 4, 36, 4, 40, 0, 40, 10, 36, 6, 4, 6, 0, 10"  fill="red"                  transform="matrix(15 0 0 15 0 12)"  />
+    </g>
+    <g>
+           <title> RHBB: A right horizontal barbell mark </title>
+           <polygon points="0, 0, 4, 4, 36, 4, 40, 0, 40, 10, 36, 6, 4, 6, 0, 10"  fill="red" transform="matrix(15 0 0 15 0 192)" />
+    </g>
+    <g>
+       <title> DV: A down vertical mark </title> 
+       <polygon points="0 0 10 0 6 4 6 25 4 25 4 4" fill="red" transform="matrix(15 0 0 15 600 0)" />
+    </g>
+    <g> 
+       <title> DV: A down vertical mark </title> 
+      <polygon points="0 0 10 0 6 4 6 25 4 25 4 4" fill="red" transform="matrix(10 0 0 10 100 120)" />
+    </g>
+    <g>
+       <title> DV: A down vertical mark </title> 
+       <polygon points="0 0 10 0 6 4 6 25 4 25 4 4" fill="red" transform="matrix(10 0 0 10 200 120)" />
+     </g>
+     <g>
+       <title> 2C; A 2-cross connector </title>   
+       <circle cx="150" cy="265" r="25" fill="green" />
+    </g>
+     <g>
+       <title> 2C; A 2-cross connector </title>   
+       <circle cx="250" cy="265" r="25" fill="green" />
+    </g>
+    <text x="150" y="400"> Marks: DV=3, RHBB=2 Connectors: 2C=2</text>
+    
+</svg>

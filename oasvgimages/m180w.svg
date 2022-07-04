@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,23.325931,4.6452894)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon882"
+       transform="matrix(0.26458333,0,0,0.26458333,11.154984,11.524456)">
+      <title
+         id="title896">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon900"
+       transform="matrix(0.26458333,0,0,0.26458333,11.154984,5.1744562)">
+      <title
+         id="title898">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g944"
+       transform="matrix(0.26458333,0,0,0.26458333,8.7076644,4.6302083)">
+      <title
+         id="title940">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon942" />
+    </g>
+    <polygon
+       points="8,4 8,35 12,40 0,40 4,35 4,4 0,0 12,0 "
+       style="fill:#ff0000"
+       id="polygon920"
+       transform="matrix(0,-0.26458333,0.26458333,0,13.244248,11.49985)">
+      <title
+         id="title941">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g938"
+       transform="matrix(0.26458333,0,0,0.26458333,17.108223,4.6452894)">
+      <title
+         id="title934">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon936" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="18.662573"
+       cy="9.921875"
+       r="0.79374999">
+      <title
+         id="title959">2Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

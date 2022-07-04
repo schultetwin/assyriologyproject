@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g931"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.867559,7.774857)">
+      <title
+         id="title927">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon929" />
+    </g>
+    <g
+       id="g948"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.867559,14.124857)">
+      <title
+         id="title944">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon946" />
+    </g>
+    <g
+       id="g954"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.867559,10.949857)">
+      <title
+         id="title950">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon952" />
+    </g>
+    <polygon
+       points="12,0 8,4 8,28 12,28 8,32 8,60 4,60 4,32 0,28 4,28 4,4 0,0 "
+       style="fill:#000000"
+       id="polygon1068"
+       transform="matrix(0,-0.26458333,0.26458333,0,13.529733,16.527009)">
+      <title
+         id="title1134">Right Horizontal Head-to_Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="8,4 8,30 12,35 0,35 4,30 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon1120"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.787048,10.949857)">
+      <title
+         id="title1136">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+  </g>
+</svg>

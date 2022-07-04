@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="5.0000005"
+   height="15"
+   viewBox="0 0 1.3229168 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-16.489211,-9.2131696)">
+    <g
+       id="g60"
+       transform="matrix(0.11024306,0,0,0.11024306,16.489211,9.2131696)">
+      <title
+         id="title56">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,30 4,30 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon58" />
+    </g>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon900"
+       transform="matrix(0.11024306,0,0,0.11024306,16.930183,11.859003)">
+      <title
+         id="title868">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

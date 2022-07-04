@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,22.461234,5.2444197)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#000000"
+         id="polygon855" />
+    </g>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#000000"
+       id="polygon866"
+       transform="matrix(0.396875,0,0,0.396875,23.107649,8.3910711)">
+      <title
+         id="title970">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g857-3"
+       transform="matrix(-0.09049282,-0.24862701,0.24862701,-0.09049282,13.350674,15.881706)">
+      <title
+         id="title853-7">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon855-7" />
+    </g>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon928"
+       transform="matrix(0.396875,0,0,0.396875,9.6932747,8.3910711)">
+      <title
+         id="title972">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="8,4 8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon862"
+       transform="matrix(0.09049283,-0.248627,0.248627,0.09049283,12.273227,8.6422799)">
+      <title
+         id="title959">Other Head-to-Tail Mark, OHT</title>
+    </polygon>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="22.40069"
+       cy="10.725074"
+       r="0.79374999">
+      <title
+         id="title946">Right Middle Corner Connector, RMC</title>
+    </circle>
+  </g>
+</svg>

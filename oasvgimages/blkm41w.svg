@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="12,0 8,4 8,35 12,40 0,40 4,35 4,4 0,0 "
+       style="fill:black"
+       id="polygon851"
+       transform="matrix(0,-0.26458333,0.26458333,0,21.032525,8.7312499)">
+      <title
+         id="title865">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="8,4 8,35 12,40 0,40 4,35 4,4 0,0 12,0 "
+       style="fill:black"
+       id="polygon869"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.827381,8.6273074)">
+      <title
+         id="title867">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="8,35 12,40 0,40 4,35 4,4 0,0 12,0 8,4 "
+       style="fill:black"
+       id="polygon873"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.827381,8.7312499)">
+      <title
+         id="title871">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="12,40 0,40 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:black"
+       id="polygon877"
+       transform="matrix(0,-0.26458333,0.26458333,0,21.325416,13.229167)">
+      <title
+         id="title875">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="12,40 0,40 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:black"
+       id="polygon881"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.15811,13.229167)">
+      <title
+         id="title879">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g901"
+       transform="matrix(0.26458333,0,0,0.26458333,15.447962,9.2131698)">
+      <title
+         id="title897">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon899" />
+    </g>
+    <g
+       id="g918"
+       transform="matrix(0.26458333,0,0,0.26458333,12.272962,9.2131698)">
+      <title
+         id="title914">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon916" />
+    </g>
+    
+    
+  </g>
+</svg>

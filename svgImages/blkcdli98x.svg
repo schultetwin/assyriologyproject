@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g1140"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.937218,16.44941)">
+      <title
+         id="title1136">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,45 4,45 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon1138" />
+    </g>
+    <polygon
+       points="8,4 8,30 4,30 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon1210"
+       transform="matrix(0.26458333,0,0,0.26458333,15.316502,7.3892833)">
+      <title
+         id="title1327">Down Vertical Mark, DV</title>
+    </polygon>
+    <polygon
+       points="4,30 4,4 0,0 12,0 8,4 8,30 "
+       style="fill:#000000"
+       id="polygon1321"
+       transform="matrix(0.26458333,0,0,0.26458333,18.701165,7.4366437)">
+      <title
+         id="title1325">Down Vertical Mark, DV</title>
+    </polygon>
+    <g
+       id="g1270"
+       transform="matrix(0.26458333,0,0,0.26458333,23.008317,5.5391844)">
+      <title
+         id="title1266">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon1268" />
+    </g>
+    <g
+       id="g1290"
+       transform="matrix(0,-0.26458333,0.26458333,0,13.059984,8.5026311)">
+      <title
+         id="title1286">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon1288" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1134"
+       cx="24.331234"
+       cy="6.8299351"
+       r="0.79374999">
+      <title
+         id="title1132">Northeast Corner Connector, NEC</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1144"
+       cx="24.618608"
+       cy="14.875193"
+       r="0.79374999">
+      <title
+         id="title1142">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1078"
+       cx="20.201883"
+       cy="14.780701"
+       r="0.79374999">
+      <title
+         id="title1092">Bottom 2 Touch Connector, B2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle938"
+       cx="20.24913"
+       cy="7.3629184"
+       r="0.79374999">
+      <title
+         id="title936">Top 2 Touch Connector, T2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle946"
+       cx="16.941837"
+       cy="7.3629184"
+       r="0.79374999">
+      <title
+         id="title944">Top 2 Touch Connector, T2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle950"
+       cx="16.989086"
+       cy="14.827948"
+       r="0.79374999">
+      <title
+         id="title948">Bottom 2 Touch Connector, B2T</title>
+    </circle>
+  </g>
+</svg>

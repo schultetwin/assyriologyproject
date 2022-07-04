@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g1318"
+       transform="matrix(0.26458333,0,0,0.26458333,20.868063,4.5404957)">
+      <title
+         id="title1314">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon1316" />
+    </g>
+    <polygon
+       points="12,40 0,40 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:#ff0000"
+       id="polygon1350"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.972649,7.2657043)">
+      <title
+         id="title1409">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,35 12,35 8,39 8,74 4,74 4,39 0,35 4,35 "
+       style="fill:#ff0000"
+       id="polygon1461"
+       transform="matrix(0,-0.26458333,0.26458333,0,11.978065,17.240495)">
+      <title
+         id="title1534">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <g
+       id="g1493"
+       transform="matrix(0,-0.26458333,0.26458333,0,23.003781,7.0066769)">
+      <title
+         id="title1489">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,25 4,25 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon1491" />
+    </g>
+    <g
+       id="g1510"
+       transform="matrix(0.26458333,0,0,0.26458333,29.414106,4.5404956)">
+      <title
+         id="title1506">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon1508" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="22.366858"
+       cy="15.354396"
+       r="0.79374999">
+      <title
+         id="title1542">Bottom 2 Touch Connector, B2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1528"
+       cx="30.11537"
+       cy="5.3380265"
+       r="0.79374999">
+      <title
+         id="title1538">Northeast Corner Connector, NEC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1530"
+       cx="23.217304"
+       cy="5.6215091"
+       r="0.79374999">
+      <title
+         id="title1536">Northwest Corner Connector, NWC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1532"
+       cx="30.965816"
+       cy="15.496137"
+       r="0.79374999">
+      <title
+         id="title1540">Southeast Corner Connector, SEC</title>
+    </circle>
+  </g>
+</svg>

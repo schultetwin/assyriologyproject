@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cdli185.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="79.537532"
+     inkscape:cy="50.290512"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1755"
+     inkscape:window-height="1020"
+     inkscape:window-x="171"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1260"
+       transform="matrix(0.26458333,0,0,0.26458333,3.9404396,4.4317708)">
+      <title
+         id="title1315">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon1274"
+       transform="matrix(0.26458333,0,0,0.26458333,3.9404396,8.3211458)">
+      <title
+         id="title1317">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon1276"
+       transform="matrix(0.26458333,0,0,0.26458333,5.7263383,4.4526729)">
+      <title
+         id="title1313">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1278"
+       transform="matrix(0.26458333,0,0,0.26458333,5.7263383,8.3420479)">
+      <title
+         id="title1311">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1477"
+       transform="matrix(0,-0.26458333,0.26458333,0,7.790127,5.5731833)">
+      <title
+         id="title1473">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon1475" />
+    </g>
+    <g
+       id="g1494"
+       transform="matrix(0,-0.26458333,0.26458333,0,7.8147333,13.83956)">
+      <title
+         id="title1490">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon1492" />
+    </g>
+    <g
+       id="g1514"
+       transform="matrix(0.26458333,0,0,0.26458333,17.116689,2.7895021)">
+      <title
+         id="title1510">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon1512" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1498"
+       cx="18.698483"
+       cy="12.142486"
+       r="0.79374999">
+      <title
+         id="title1496">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1506"
+       cx="18.568081"
+       cy="4.0159979"
+       r="0.79374999"
+       inkscape:transform-center-x="-1.7953869"
+       inkscape:transform-center-y="3.4962798">
+      <title
+         id="title1504">Northeast Corner Connector, NEC</title>
+    </circle>
+    <g
+       id="g1534"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.072952,7.977263)">
+      <title
+         id="title1530">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,30 4,30 4,4 "
+         style="fill:#ff0000"
+         id="polygon1532" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1538"
+       cx="18.651236"
+       cy="6.4255958"
+       r="0.79374999">
+      <title
+         id="title1536">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1542"
+       cx="18.698483"
+       cy="9.5911465"
+       r="0.79374999">
+      <title
+         id="title1540">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <g
+       id="g1548"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.072952,11.152263)">
+      <title
+         id="title1544">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,30 4,30 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon1546" />
+    </g>
+  </g>
+</svg>

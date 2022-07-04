@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="28,0 16,4 16,30 12,30 12,4 0,0 "
+       style="fill:black"
+       id="polygon855"
+       transform="matrix(0.26458333,0,0,0.26458333,15.24189,10.22985)" />
+    <g
+       id="g920"
+       transform="matrix(0.26458333,0,0,0.26458333,14.183557,3.6152668)">
+      <title
+         id="title916" />
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:black"
+         id="polygon918" />
+    </g>
+    <g
+       id="g937"
+       transform="matrix(0.26458333,0,0,0.26458333,17.305602,3.6152668)">
+      <title
+         id="title933" />
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon935" />
+    </g>
+    <g
+       id="g943"
+       transform="matrix(0.26458333,0,0,0.26458333,20.348308,3.6152668)">
+      <title
+         id="title939" />
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:black"
+         id="polygon941" />
+    </g>
+   
+  </g>
+</svg>

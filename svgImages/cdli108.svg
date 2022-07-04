@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g28"
+       transform="matrix(0,-0.26458333,0.26458333,0,14,9.675)">
+      <title
+         id="title24">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon26" />
+    </g>
+    <g
+       id="g45"
+       transform="matrix(0,-0.26458333,0.26458333,0,14,12.85)">
+      <title
+         id="title41">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon43" />
+    </g>
+    <g
+       id="g96"
+       transform="matrix(0.26458333,0,0,0.26458333,17.704167,6.5)">
+      <title
+         id="title92">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,25 4,25 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon94" />
+    </g>
+    <g
+       id="g127"
+       transform="matrix(0.26458333,0,0,0.26458333,18.551641,7.4435015)">
+      <title
+         id="title123">2 Cross Connector, 2C</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle125" />
+    </g>
+    <g
+       id="g144"
+       transform="matrix(0.26458333,0,0,0.26458333,18.484824,10.517101)">
+      <title
+         id="title140">2 Cross Connector, 2C</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle142" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon411"
+       transform="matrix(0.26458333,0,0,0.26458333,25.948066,5.8775303)">
+      <title
+         id="title431">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon427"
+       transform="matrix(0.26458333,0,0,0.26458333,23.009301,5.5334958)">
+      <title
+         id="title429">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g439"
+       transform="matrix(0.26458333,0,0,0.26458333,32.067424,2.2356537)">
+      <title
+         id="title435">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,57 4,57 "
+         style="fill:#000000"
+         id="polygon437"
+         transform="translate(-12.199714,0.46428666)" />
+    </g>
+    <polygon
+       points="8,35 12,40 0,40 4,35 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon484"
+       transform="matrix(0,-0.26458333,0.26458333,0,15.969494,11.760654)">
+      <title
+         id="title498">Right Horizontal Barbeel, RHBB</title>
+    </polygon>
+  </g>
+</svg>

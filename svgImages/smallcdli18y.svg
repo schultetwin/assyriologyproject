@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="12.152909"
+   height="15"
+   viewBox="0 0 3.2154571 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-17.858046,-8.4099702)">
+    <g
+       id="g439"
+       transform="matrix(0.06731291,0,0,0.06731291,21.086946,8.5106315)">
+      <title
+         id="title435">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,57 4,57 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon437"
+         transform="translate(-12.199714,0.46428666)" />
+    </g>
+    <polygon
+       points="12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 "
+       style="fill:#ff0000"
+       id="polygon512"
+       transform="matrix(0.04759742,-0.04759742,0.04759742,0.04759742,18.456276,8.9811392)">
+      <title
+         id="title530">Other Head-to-Tail Mark, OHT</title>
+    </polygon>
+    <polygon
+       points="8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 "
+       style="fill:#ff0000"
+       id="polygon526"
+       transform="matrix(0,-0.06731291,0.06731291,0,17.858046,10.963898)">
+      <title
+         id="title528">Right Horizontal Head-to-Tail, RHHT</title>
+    </polygon>
+    <g
+       id="g550"
+       transform="matrix(0.06731291,0,0,0.06731291,20.419606,10.348293)">
+      <title
+         id="title546">3 Touch Connector, 3T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle548" />
+    </g>
+  </g>
+</svg>

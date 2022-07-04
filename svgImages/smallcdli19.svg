@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.264431"
+   height="15"
+   viewBox="0 0 4.3032972 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-17.266878,-8.9296872)">
+    <g
+       id="g439"
+       transform="matrix(0.09458478,0,0,0.09458478,21.589065,9.0711315)">
+      <title
+         id="title435">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon437"
+         transform="translate(-12.199714,0.46428666)" />
+    </g>
+    <polygon
+       points="0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 "
+       style="fill:#ff0000"
+       id="polygon512"
+       transform="matrix(0.06688154,-0.06688154,0.06688154,0.06688154,17.892577,9.7322656)">
+      <title
+         id="title530">Other Head-to-Tail Mark, OHT</title>
+    </polygon>
+    <g
+       id="g550"
+       transform="matrix(0.09458478,0,0,0.09458478,20.651352,11.653323)">
+      <title
+         id="title546">Other 2 Touch Connector, O2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle548" />
+    </g>
+    <g
+       id="g581"
+       transform="matrix(0,-0.09458478,0.09458478,0,17.266878,11.314472)">
+      <title
+         id="title577">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#ff0000"
+         id="polygon579" />
+    </g>
+    <g
+       id="g598"
+       transform="matrix(0.09458478,0,0,0.09458478,19.24947,10.487903)">
+      <title
+         id="title594">Other 2 Touch Connector, O2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle596" />
+    </g>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon612"
+       transform="matrix(0.09458478,0,0,0.09458478,19.899024,9.5660462)">
+      <title
+         id="title626">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

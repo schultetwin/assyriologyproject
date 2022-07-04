@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="23.259506"
+   height="15"
+   viewBox="0 0 6.1540775 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-17.947886,-8.6462053)">
+    <polygon
+       points="4,35 4,4 0,0 12,0 8,4 8,35 12,35 8,39 8,74 4,74 4,39 0,35 "
+       style="fill:#ff0000"
+       id="polygon1330"
+       transform="matrix(0,-0.08286726,0.08286726,0,17.947886,9.6406124)">
+      <title
+         id="title1348">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="12,35 8,39 8,74 4,74 4,39 0,35 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:#ff0000"
+       id="polygon1344"
+       transform="matrix(0,-0.08286726,0.08286726,0,17.969787,12.614955)">
+      <title
+         id="title1350">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="8,35 12,40 0,40 4,35 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon897"
+       transform="matrix(0,-0.08286726,0.08286726,0,19.116019,11.604271)">
+      <title
+         id="title922">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="8,35 12,40 0,40 4,35 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon926"
+       transform="matrix(0,-0.08286726,0.08286726,0,19.116019,10.609864)">
+      <title
+         id="title924">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon940"
+       transform="matrix(0.08286726,0,0,0.08286726,23.01078,10.162972)">
+      <title
+         id="title954">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

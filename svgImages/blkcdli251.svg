@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon167"
+       transform="matrix(0.26458333,0,0,0.26458333,24.105431,9.4210566)">
+      <title
+         id="title224">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#000000"
+       id="polygon181"
+       transform="matrix(0.26458333,0,0,0.26458333,25.71183,9.3738098)">
+      <title
+         id="title222">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon183"
+       transform="matrix(0.26458333,0,0,0.26458333,22.451786,9.3643604)">
+      <title
+         id="title226">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g203"
+       transform="matrix(0.26458333,0,0,0.26458333,20.47686,7.5595234)">
+      <title
+         id="title199">Down Vertical Mark, Dv</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon201" />
+    </g>
+    <g
+       id="g220"
+       transform="matrix(0.26458333,0,0,0.26458333,17.30186,7.5595234)">
+      <title
+         id="title216">Down Vertical Mark, Dv</title>
+      <polygon
+         points="12,0 8,4 8,25 4,25 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon218" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.671644"
+   height="15"
+   viewBox="0 0 4.4110391 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-16.22082,-8.3627232)">
+    <g
+       id="g857"
+       transform="matrix(0.08553261,0,0,0.08553261,19.605467,8.3627232)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g874"
+       transform="matrix(0.08553261,0,0,0.08553261,17.983402,8.3627232)">
+      <title
+         id="title870">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon872" />
+    </g>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon1050"
+       transform="matrix(0.08553261,0,0,0.08553261,18.325533,11.305082)">
+      <title
+         id="title1072">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1064"
+       transform="matrix(0.08553261,0,0,0.08553261,19.947598,11.270832)">
+      <title
+         id="title1074">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1108"
+       transform="matrix(0,-0.08553261,0.08553261,0,16.22082,10.601845)">
+      <title
+         id="title1104">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon1106" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.0855325"
+       id="circle1036"
+       cx="18.435505"
+       cy="10.073376"
+       r="0.25659785">
+      <title
+         id="title1034">Right 2 Touch Connector, R2T</title>
+    </circle>
+  </g>
+</svg>

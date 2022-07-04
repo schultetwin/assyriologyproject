@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g952"
+       transform="matrix(0,-0.26458333,0.26458333,0,14.022916,13.27906)">
+      <title
+         id="title948">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon950" />
+    </g>
+    <g
+       id="g930"
+       transform="matrix(0.26458333,0,0,0.26458333,26.288244,14.12686)">
+      <title
+         id="title926">Right Down Diagonal, RDD</title>
+      <polygon
+         points="4,15 4,4 0,0 12,0 8,4 8,15 "
+         style="fill:#000000"
+         id="polygon928"
+         transform="rotate(-60,-10.881767,7.3674096)" />
+    </g>
+    <g
+       id="g947"
+       transform="matrix(0.26458333,0,0,0.26458333,18.586979,11.293868)">
+      <title
+         id="title943">Right Down Diagonal, RDD</title>
+      <polygon
+         points="12,0 8,4 8,15 4,15 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon945"
+         transform="rotate(-60,-10.881767,7.3674096)" />
+    </g>
+    <g
+       id="g953"
+       transform="matrix(0.26458333,0,0,0.26458333,26.807961,11.422456)">
+      <title
+         id="title949">Right Down Diagonal, RDD</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,15 4,15 "
+         style="fill:#000000"
+         id="polygon951"
+         transform="rotate(-60,-10.881767,7.3674096)" />
+    </g>
+    <g
+       id="g959"
+       transform="matrix(0.26458333,0,0,0.26458333,21.480528,9.8577099)">
+      <title
+         id="title955">Right Down Diagonal, RDD</title>
+      <polygon
+         points="8,15 4,15 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon957"
+         transform="rotate(-60,-10.881767,7.3674096)" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="23.906994"
+       cy="11.528273"
+       r="0.79374999">
+      <title
+         id="title977">Other 2 Touch Connector, O2T</title>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,45 4,45 "
+       style="fill:black"
+       id="polygon493"
+       transform="matrix(0.26458333,0,0,0.26458333,10.857422,1.4761104)">
+      <title
+         id="title956">Down Vertical Mark, DV</title>
+    </polygon>
+    <polygon
+       points="0,0 12,0 8,4 8,45 4,45 4,4 "
+       style="fill:black"
+       id="polygon948"
+       transform="matrix(0.26458333,0,0,0.26458333,22.763672,1.4496521)">
+      <title
+         id="title958">Down Vertical Mark, DV</title>
+    </polygon>
+    <polygon
+       points="0,0 12,0 8,4 8,45 4,45 4,4 "
+       style="fill:black"
+       id="polygon522"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.339108,14.484085)">
+      <title
+         id="title962">Right Horizontal Mark, RH</title>
+    </polygon>
+    <polygon
+       points="0,0 12,0 8,4 8,45 4,45 4,4 "
+       style="fill:black"
+       id="polygon950"
+       transform="matrix(0,-0.26458333,0.26458333,0,11.915755,3.5134021)">
+      <title
+         id="title960">Right Horizontal Mark, RH</title>
+    </polygon>
+    
+   
+   
+    
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:black"
+       id="polygon1274"
+       transform="matrix(0.26458333,0,0,0.26458333,20.760343,2.5455563)">
+      <title
+         id="title1353">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1298"
+       transform="matrix(0.25556787,0.0684792,-0.0684792,0.25556787,25.694473,4.7776194)">
+      <title
+         id="title1294">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon1296" />
+    </g>
+    <polygon
+       points="4,35 4,4 0,0 12,0 8,4 8,35 12,40 0,40 "
+       style="fill:black"
+       id="polygon1514"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.966034,11.660566)">
+      <title
+         id="title1528">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g971"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.347843,14.504723)">
+      <title
+         id="title967">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,25 4,25 "
+         style="fill:black"
+         id="polygon969" />
+    </g>
+    <g
+       id="g988"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.347843,12.599723)">
+      <title
+         id="title984">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon986" />
+    </g>
+    <g
+       id="g994"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.347843,10.853472)">
+      <title
+         id="title990">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:black"
+         id="polygon992" />
+    </g>
+    <g
+       id="g1000"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.347843,8.8955562)">
+      <title
+         id="title996">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:black"
+         id="polygon998" />
+    </g>
+    
+   
+   
+    
+  </g>
+</svg>

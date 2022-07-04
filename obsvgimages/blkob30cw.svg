@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0,-0.26458333,0.26458333,0,4.5111859,13.516428)">
+      <title
+         id="title853">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,60 4,4 0,0 12,0 8,4 8,60 "
+         style="fill:#000000" />
+    </g>
+    <g
+       id="g59"
+       transform="matrix(0.26458333,0,0,0.26458333,19.182291,5.6205437)">
+      <title
+         id="title55">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#000000"
+         id="polygon57" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="20.505209"
+       cy="11.953498"
+       r="0.79374999">
+      <title
+         id="title109">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <g
+       id="g239"
+       transform="matrix(0.26458333,0,0,0.26458333,14.948959,12.331473)">
+      <title
+         id="title235">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,15 4,15 "
+         style="fill:#000000" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle260"
+       cx="16.568472"
+       cy="12.378721"
+       r="0.79374999">
+      <title
+         id="title258">Top 2 Touch Connector, T2T</title>
+    </circle>
+    <g
+       id="g270"
+       transform="matrix(0.26458333,0,0,0.26458333,8.0168765,5.6999187)">
+      <title
+         id="title266">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon268" />
+    </g>
+    <g
+       id="g276"
+       transform="matrix(0.26458333,0,0,0.26458333,11.1125,5.6999187)">
+      <title
+         id="title272">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon274" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle113"
+       cx="12.662202"
+       cy="12.000743"
+       r="0.79374999">
+      <title
+         id="title111">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle280"
+       cx="9.6383924"
+       cy="11.953496"
+       r="0.79374999">
+      <title
+         id="title278">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

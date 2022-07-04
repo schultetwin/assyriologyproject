@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g60"
+       transform="matrix(0.26458333,0,0,0.26458333,16.672717,4.4358871)">
+      <title
+         id="title56">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,30 4,30 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon58" />
+    </g>
+    <g
+       id="g77"
+       transform="matrix(0,0.26458333,0.26458333,0,18.613675,11.51888)">
+      <title
+         id="title73">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,13 4,13 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon75"
+         transform="rotate(-15,6,6.5)" />
+    </g>
+    <g
+       id="g154"
+       transform="matrix(0.26458333,0,0,0.26458333,18.061817,11.823432)">
+      <title
+         id="title150">Other 2 Touch Connector, O2T</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle152" />
+    </g>
+  </g>
+</svg>

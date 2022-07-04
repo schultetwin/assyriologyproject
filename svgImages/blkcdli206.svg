@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon1040"
+       transform="matrix(0.26458333,0,0,0.26458333,12.350486,7.9827437)">
+      <title
+         id="title1060">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon1054"
+       transform="matrix(0.26458333,0,0,0.26458333,14.599331,6.0512854)">
+      <title
+         id="title1062">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon1056"
+       transform="matrix(0.26458333,0,0,0.26458333,16.942783,3.4623375)">
+      <title
+         id="title1064">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon1058"
+       transform="matrix(0.26458333,0,0,0.26458333,24.719643,6.1137645)">
+      <title
+         id="title1066">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1086"
+       transform="matrix(0.26458333,0,0,0.26458333,19.626413,4.393973)">
+      <title
+         id="title1082">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon1084" />
+    </g>
+    <g
+       id="g1103"
+       transform="matrix(0,-0.26458333,0.26458333,0,13.077975,14.911161)">
+      <title
+         id="title1099">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon1101" />
+    </g>
+    <g
+       id="g1109"
+       transform="matrix(0,-0.26458333,0.26458333,0,22.353587,12.694444)">
+      <title
+         id="title1105">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon1107" />
+    </g>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon1113"
+       transform="matrix(0.26458333,0,0,0.26458333,10.573885,10.13169)">
+      <title
+         id="title1111">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon1117"
+       transform="matrix(0.26458333,0,0,0.26458333,18.450983,6.0287199)">
+      <title
+         id="title1115">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon1121"
+       transform="matrix(0.26458333,0,0,0.26458333,16.377708,8.2057874)">
+      <title
+         id="title1119">Heel Mark, HE</title>
+    </polygon>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="21.261162"
+       cy="13.229167"
+       r="0.79374999">
+      <title
+         id="title1139">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

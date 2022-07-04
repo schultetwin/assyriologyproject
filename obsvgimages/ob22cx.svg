@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="4,35 4,4 0,0 12,0 8,4 8,35 12,40 0,40 "
+       style="fill:#ff0000"
+       id="polygon19"
+       transform="matrix(0,-0.26458333,0.26458333,0,7.039806,11.934598)">
+      <title
+         id="title128">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,9.0430803,5.0590979)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle150"
+       cx="10.536086"
+       cy="10.394346"
+       r="0.79374999">
+      <title
+         id="title152">2 Cross Connector, 2C</title>
+    </circle>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon168"
+       transform="matrix(0.26458333,0,0,0.26458333,17.623139,10.347098)">
+      <title
+         id="title182">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon186"
+       transform="matrix(0.26458333,0,0,0.26458333,17.623139,7.1720981)">
+      <title
+         id="title184">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

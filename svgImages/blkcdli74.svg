@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cdli74.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="81.778718"
+     inkscape:cy="33.70269"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1755"
+     inkscape:window-height="1020"
+     inkscape:window-x="324"
+     inkscape:window-y="17"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polygon
+       points="4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 "
+       style="fill:#000000"
+       id="polygon882"
+       transform="matrix(0.26458333,0,0,0.26458333,27.633875,5.1026786)">
+      <title
+         id="title1014">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <g
+       id="g914"
+       transform="matrix(0.26458333,0,0,0.26458333,24.114919,5.1026786)">
+      <title
+         id="title910">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon912" />
+    </g>
+    <g
+       id="g945"
+       transform="matrix(0.26458333,0,0,0.26458333,17.152673,0.58586312)">
+      <title
+         id="title941">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,72 4,72 4,4 "
+         style="fill:#000000"
+         id="polygon943" />
+    </g>
+    <g
+       id="g962"
+       transform="matrix(0.26458333,0,0,0.26458333,34.478911,0.91659228)">
+      <title
+         id="title958">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,72 4,72 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon960" />
+    </g>
+    <g
+       id="g968"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.31131,3.1787041)">
+      <title
+         id="title964">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,72 4,72 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon966" />
+    </g>
+    <g
+       id="g974"
+       transform="matrix(0,-0.26458333,0.26458333,0,17.180983,21.079619)">
+      <title
+         id="title970">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,72 4,72 4,4 "
+         style="fill:#000000"
+         id="polygon972" />
+    </g>
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,35 12,40 0,40 4,35 "
+       style="fill:#000000"
+       id="polygon994"
+       transform="matrix(0,-0.26458333,0.26458333,0,6.3576729,4.4487041)">
+      <title
+         id="title1016">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g1012"
+       transform="matrix(0,-0.26458333,0.26458333,0,6.1478583,19.650868)">
+      <title
+         id="title1008">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon1010" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="36.04948"
+       cy="19.418528"
+       r="0.79374999">
+      <title
+         id="title1048">Southeast Corner Connector, SEC</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1034"
+       cx="18.804316"
+       cy="19.371281"
+       r="0.79374999">
+      <title
+         id="title1050">Southwest Corner Connector, SWC</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1036"
+       cx="17.008928"
+       cy="18.142859"
+       r="0.79374999">
+      <title
+         id="title1052">Horizontal 2 Touch Connector, H2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1038"
+       cx="35.860493"
+       cy="1.6536466"
+       r="0.79374999">
+      <title
+         id="title1046">Northeast Corner Connector, NEC</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1040"
+       cx="18.662577"
+       cy="1.4646586"
+       r="0.79374999">
+      <title
+         id="title1044">Northwest Corner Connector, NWC</title>
+    </circle>
+  </g>
+</svg>

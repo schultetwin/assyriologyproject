@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g1236"
+       transform="matrix(0.13229166,-0.22913589,0.22913589,0.13229166,22.803343,9.4041284)">
+      <title
+         id="title1232">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,35 4,35 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon1234"
+         transform="translate(1.6779954,-6.4376273)" />
+    </g>
+    <polygon
+       points="12,30 0,30 4,25 4,4 0,0 12,0 8,4 8,25 "
+       style="fill:#000000"
+       id="polygon1304"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.681214,8.6745535)">
+      <title
+         id="title1352">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="12,0 8,4 8,35 12,35 8,39 8,74 4,74 4,39 0,35 4,35 4,4 0,0 "
+       style="fill:#000000"
+       id="polygon1330"
+       transform="matrix(0,-0.26458333,0.26458333,0,11.518824,5.6507439)">
+      <title
+         id="title1348">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="4,74 4,39 0,35 4,35 4,4 0,0 12,0 8,4 8,35 12,35 8,39 8,74 "
+       style="fill:#000000"
+       id="polygon1344"
+       transform="matrix(0,-0.26458333,0.26458333,0,11.58875,15.147396)">
+      <title
+         id="title1350">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="0,30 4,25 4,4 0,0 12,0 8,4 8,25 12,30 "
+       style="fill:#000000"
+       id="polygon1346"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.681214,11.849553)">
+      <title
+         id="title1354">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+  </g>
+</svg>

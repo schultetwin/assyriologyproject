@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="11.177156"
+   height="15"
+   viewBox="0 0 2.9572892 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-15.388543,-8.6934524)">
+    <polygon
+       points="8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon120"
+       transform="matrix(0.08634421,0,0,0.08634421,15.388543,8.6934524)">
+      <title
+         id="title195">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <polygon
+       points="12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 "
+       style="fill:#ff0000"
+       id="polygon134"
+       transform="matrix(0.08634421,0,0,0.08634421,16.776218,8.6934524)">
+      <title
+         id="title197">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon179"
+       transform="matrix(0.08634421,0,0,0.08634421,17.827767,10.115048)">
+      <title
+         id="title193">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon201"
+       transform="matrix(0.08634421,0,0,0.08634421,16.424673,11.626072)">
+      <title
+         id="title199">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

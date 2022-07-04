@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon852"
+       transform="matrix(0.26458333,0,0,0.26458333,16.160485,4.9609373)">
+      <title
+         id="title850">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon892"
+       transform="matrix(0.26458333,0,0,0.26458333,12.667985,6.5484372)" />
+    <g
+       id="g924"
+       transform="matrix(0.26458333,0,0,0.26458333,12.985485,9.7234372)">
+      <title
+         id="title920" />
+      <polygon
+         points="4,22 4,4 0,0 12,0 8,4 8,22 "
+         style="fill:#000000"
+         id="polygon922" />
+    </g>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon937"
+       transform="matrix(0.26458333,0,0,0.26458333,14.308401,4.9609372)" />
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon939"
+       transform="matrix(0.26458333,0,0,0.26458333,11.106944,8.1359372)" />
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon941"
+       transform="matrix(0.26458333,0,0,0.26458333,9.545902,9.7234372)" />
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="0,0 12,0 8,4 8,35 12,40 0,40 4,35 4,4 "
+       style="fill:#ff0000"
+       id="polygon1368"
+       transform="matrix(0,-0.26458333,0.26458333,0,14.646577,7.5878728)">
+      <title
+         id="title1425">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g1400"
+       transform="matrix(0,-0.26458333,0.26458333,0,14.646577,10.762873)">
+      <title
+         id="title1396">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon1398" />
+    </g>
+    <g
+       id="g1417"
+       transform="matrix(0,-0.26458333,0.26458333,0,14.646577,13.937873)">
+      <title
+         id="title1413">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon1415" />
+    </g>
+    <g
+       id="g1423"
+       transform="matrix(0,-0.26458333,0.26458333,0,14.646577,17.112873)">
+      <title
+         id="title1419">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon1421" />
+    </g>
+  </g>
+</svg>

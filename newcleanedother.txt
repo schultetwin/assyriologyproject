@@ -1,0 +1,10 @@
+BEGIN
+	DECLARE cleanedstuff varchar(150);
+	SET cleanedstuff = param1;
+	SET cleanedstuff = TRIM(cleanedstuff);
+	IF (SUBSTRING( "cleanedstuff", 1, 7) = '<object') , THEN 
+	(SET cleanstuff = (SELECT cleanedstuff));
+	SET cleanedstuff = REPLACE(param1, "," , " " );
+	SET cleanedstuff = CONCAT(" ", cleanedstuff, " ");
+RETURN cleanedstuff;
+END

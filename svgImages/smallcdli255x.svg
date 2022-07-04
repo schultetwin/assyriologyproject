@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="9.7650213"
+   height="15"
+   viewBox="0 0 2.5836618 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-18.362931,-9.4021577)">
+    <polygon
+       points="8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 "
+       style="fill:#ff0000"
+       id="polygon120"
+       transform="matrix(0.08736933,0,0,0.08736933,18.362931,9.4021577)">
+      <title
+         id="title195">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <polygon
+       points="8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 "
+       style="fill:#ff0000"
+       id="polygon134"
+       transform="matrix(0.08736933,0,0,0.08736933,19.767081,9.4021577)">
+      <title
+         id="title197">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <g
+       id="g154"
+       transform="matrix(0.04368467,-0.07566406,0.07566406,0.04368467,18.705514,12.581447)">
+      <title
+         id="title150"> Right Down Diagonal Mark, RDD </title>
+      <polygon
+         points="4,25 4,4 0,0 12,0 8,4 8,25 "
+         style="fill:#ff0000"
+         id="polygon152" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.0873692"
+       id="path839"
+       cx="20.264774"
+       cy="12.821886"
+       r="0.262108">
+      <title
+         id="title908">Other 2 Touch Connector, O2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.0873692"
+       id="circle904"
+       cx="19.032244"
+       cy="12.151013"
+       r="0.262108">
+      <title
+         id="title906">Other 2 Touch Connector, O2T</title>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.13229166,-0.22913589,0.22913589,0.13229166,17.68008,6.946187)">
+      <title
+         id="title853">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <polygon
+       points="8,40 4,40 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon856"
+       transform="matrix(-0.09049282,-0.24862701,0.24862701,-0.09049282,9.4155263,10.751435)">
+      <title
+         id="title906">Right Up Diagonal Mark, RUD</title>
+    </polygon>
+    <polygon
+       points="8,40 4,40 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon862"
+       transform="matrix(-0.13229166,-0.22913589,0.22913589,-0.13229166,18.738413,17.52952)">
+      <title
+         id="title904">Right Up Diagonal Mark, RUD</title>
+    </polygon>
+    <g
+       id="g870"
+       transform="matrix(0.09049282,-0.24862701,0.24862701,0.09049282,8.3031541,14.066655)">
+      <title
+         id="title866">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon868" />
+    </g>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon884"
+       transform="matrix(0.26458333,0,0,0.26458333,19.52247,9.0903274)">
+      <title
+         id="title908">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon898"
+       transform="matrix(0.26458333,0,0,0.26458333,17.220671,9.0903274)">
+      <title
+         id="title910">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon900"
+       transform="matrix(0.26458333,0,0,0.26458333,15.077546,9.0903274)">
+      <title
+         id="title912">Heel Mark, HE</title>
+    </polygon>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="27.261532"
+       cy="10.63058"
+       r="0.79374999">
+      <title
+         id="title938">Right Middle Corner Connector, RMC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle930"
+       cx="18.851562"
+       cy="5.7641363"
+       r="0.79374999">
+      <title
+         id="title932">Top Middle Corner Connector, TMC</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle934"
+       cx="18.473587"
+       cy="15.922247"
+       r="0.79374999">
+      <title
+         id="title936">Bottom Middle Corner Connector, BMC</title>
+    </circle>
+  </g>
+</svg>

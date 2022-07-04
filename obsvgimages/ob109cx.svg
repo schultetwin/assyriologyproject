@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 "
+       style="fill:#ff0000"
+       id="polygon862"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.961309,7.5406253)">
+      <title
+         id="title841">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 "
+       style="fill:#ff0000"
+       id="polygon854"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.961309,10.60979)">
+      <title
+         id="title852">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 "
+       style="fill:#ff0000"
+       id="polygon858"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.961309,13.546667)">
+      <title
+         id="title856">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,20.486309,4.1539585)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,35 4,35 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="22.06436"
+       cy="11.953497"
+       r="0.79374999">
+      <title
+         id="title900">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle904"
+       cx="22.017113"
+       cy="6.0003724"
+       r="0.79374999">
+      <title
+         id="title902">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle908"
+       cx="22.017113"
+       cy="9.0714293"
+       r="0.79374999">
+      <title
+         id="title906">Right 2 Touch Connector, R2T</title>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="26.844162"
+   height="15"
+   viewBox="0 0 7.1025176 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-17.615408,-8.8351934)">
+    <polygon
+       points="0,35 4,35 4,4 0,0 12,0 8,4 8,35 12,35 8,39 8,74 4,74 4,39 "
+       style="fill:#ff0000"
+       id="polygon1330"
+       transform="matrix(0,-0.0954187,0.0954187,0,17.656942,9.9802178)">
+      <title
+         id="title1348">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="0,0 12,0 8,4 8,35 12,35 8,39 8,74 4,74 4,39 0,35 4,35 4,4 "
+       style="fill:#ff0000"
+       id="polygon1344"
+       transform="matrix(0,-0.0954187,0.0954187,0,17.615408,12.803943)">
+      <title
+         id="title1350">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon940"
+       transform="matrix(0.0954187,0,0,0.0954187,23.486684,10.266856)">
+      <title
+         id="title954">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 "
+       style="fill:#ff0000"
+       id="polygon986"
+       transform="matrix(0,-0.0954187,0.0954187,0,19.259663,11.392128)">
+      <title
+         id="title984">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+  </g>
+</svg>

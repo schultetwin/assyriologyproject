@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cdli189.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="75.162532"
+     inkscape:cy="51.345949"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1755"
+     inkscape:window-height="1020"
+     inkscape:window-x="171"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon1276"
+       transform="matrix(0.26458333,0,0,0.26458333,27.28988,0.13229134)">
+      <title
+         id="title1313">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1631"
+       transform="matrix(0.20268258,-0.17007089,0.17007089,0.20268258,13.451723,12.342511)">
+      <title
+         id="title1627">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="8,4 8,10 4,10 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon1629"
+         transform="translate(30.396153,19.674784)" />
+    </g>
+    <g
+       id="g1688"
+       transform="matrix(0.26458333,0,0,0.26458333,28.87738,3.3072913)">
+      <title
+         id="title1684">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon1686" />
+    </g>
+    <g
+       id="g1705"
+       transform="matrix(0.26458333,0,0,0.26458333,25.70238,3.3072913)">
+      <title
+         id="title1701">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#000000"
+         id="polygon1703" />
+    </g>
+    <polygon
+       points="8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon1707"
+       transform="matrix(0.21673397,-0.15175876,0.15175876,0.21673397,22.659135,5.2186841)">
+      <title
+         id="title1755">Other Head-to-Tail Mark, OHT</title>
+    </polygon>
+    <polygon
+       points="0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 "
+       style="fill:#000000"
+       id="polygon1721"
+       transform="matrix(0.26458333,0,0,0.26458333,32.05238,3.3072913)">
+      <title
+         id="title1753">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="30.049107"
+       cy="13.040178"
+       r="0.79374999">
+      <title
+         id="title1759">Other 2 Touch Connector, O2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1751"
+       cx="27.214285"
+       cy="8.7406988"
+       r="0.79374999">
+      <title
+         id="title1757">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

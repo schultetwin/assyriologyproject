@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,26.524479,5.4806548)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g896"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.5911459,17.122321)">
+      <title
+         id="title892">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,72 4,4 0,0 12,0 8,4 8,72 "
+         style="fill:#000000"
+         id="polygon894" />
+    </g>
+    <g
+       id="g913"
+       transform="matrix(0.26458333,0,0,0.26458333,21.198683,9.7139123)">
+      <title
+         id="title909">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon911" />
+    </g>
+    <g
+       id="g919"
+       transform="matrix(0.26458333,0,0,0.26458333,17.970766,9.7403708)">
+      <title
+         id="title915">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon917" />
+    </g>
+    <g
+       id="g925"
+       transform="matrix(0.26458333,0,0,0.26458333,14.742849,9.7668291)">
+      <title
+         id="title921">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#000000"
+         id="polygon923" />
+    </g>
+    <g
+       id="g937"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.5911459,8.7614126)">
+      <title
+         id="title933">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,62 4,62 4,4 0,0 12,0 8,4 "
+         style="fill:#000000"
+         id="polygon935"
+         transform="translate(0,6.9999995)" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="22.731413"
+       cy="15.544271"
+       r="0.79374999">
+      <title
+         id="title963">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle955"
+       cx="28.017483"
+       cy="7.276041"
+       r="0.79374999">
+      <title
+         id="title957">Right 2 Touch Connector, R2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle959"
+       cx="28.064732"
+       cy="15.497024"
+       r="0.79374999">
+      <title
+         id="title961">Southeast Corner Connector, SEC</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle967"
+       cx="16.300222"
+       cy="15.497024"
+       r="0.79374999">
+      <title
+         id="title965">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle971"
+       cx="19.607513"
+       cy="15.544271"
+       r="0.79374999">
+      <title
+         id="title969">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

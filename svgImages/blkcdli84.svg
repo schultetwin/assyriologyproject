@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cdli84.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="79.455267"
+     inkscape:cy="41.838126"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1755"
+     inkscape:window-height="1020"
+     inkscape:window-x="321"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#000000"
+       id="polygon1446"
+       transform="matrix(0.26458333,0,0,0.26458333,24.058185,9.9729395)">
+      <title
+         id="title1464">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#000000"
+       id="polygon1460"
+       transform="matrix(0.26458333,0,0,0.26458333,24.058185,5.9777312)">
+      <title
+         id="title1462">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="8,4 8,35 12,40 0,40 4,35 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon1480"
+       transform="matrix(0,-0.26458333,0.26458333,0,13.040178,9.1470237)">
+      <title
+         id="title1496">Right Horizontal Barbell, RHBB</title>
+    </polygon>
+    <polygon
+       points="0,40 4,35 4,4 0,0 12,0 8,4 8,35 12,40 "
+       style="fill:#000000"
+       id="polygon1494"
+       transform="matrix(0,-0.26458333,0.26458333,0,13.040178,13.168577)">
+      <title
+         id="title1498">Right Horizontal Barbell, RHBB</title>
+    </polygon>
+  </g>
+</svg>

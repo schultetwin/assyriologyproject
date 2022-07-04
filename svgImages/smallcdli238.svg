@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="14.908123"
+   height="15"
+   viewBox="0 0 3.9444408 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-18.202258,-8.3154761)">
+    <g
+       id="g334"
+       transform="matrix(0.07546136,0,0,0.07546136,18.202258,8.7682443)">
+      <title
+         id="title330">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon332" />
+    </g>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon422"
+       transform="matrix(0.07546136,0,0,0.07546136,19.032333,8.3154761)">
+      <title
+         id="title436">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon424"
+       transform="matrix(0.07546136,0,0,0.07546136,18.491728,11.37869)">
+      <title
+         id="title434">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g448"
+       transform="matrix(0,-0.07546136,0.07546136,0,19.128245,10.743715)">
+      <title
+         id="title444">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon446" />
+    </g>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon529"
+       transform="matrix(0.07546136,0,0,0.07546136,21.188372,9.1509412)">
+      <title
+         id="title527">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon541"
+       transform="matrix(0.07546136,0,0,0.07546136,20.912367,10.455345)">
+      <title
+         id="title539">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.26458333,0,0,0.26458333,22.366741,2.0316216)">
+      <title
+         id="title853">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g874"
+       transform="matrix(0.26458333,0,0,0.26458333,19.244733,2.0316216)">
+      <title
+         id="title870">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon872" />
+    </g>
+    <g
+       id="g880"
+       transform="matrix(0.26458333,0,0,0.26458333,16.12265,2.0316216)">
+      <title
+         id="title876">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#ff0000"
+         id="polygon878" />
+    </g>
+    <g
+       id="g900"
+       transform="matrix(0.26458333,0,0,0.26458333,19.191819,8.6198603)">
+      <title
+         id="title896">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,30 4,30 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon898" />
+    </g>
+    <g
+       id="g917"
+       transform="matrix(0.26458333,0,0,0.26458333,16.12265,8.6462049)">
+      <title
+         id="title913">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,30 4,30 4,4 "
+         style="fill:#ff0000"
+         id="polygon915" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="20.764235"
+       cy="8.9769335"
+       r="0.79374999">
+      <title
+         id="title935">Vertical 2 Touch Connector, V2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle939"
+       cx="17.683687"
+       cy="8.9769335"
+       r="0.79374999">
+      <title
+         id="title937">Vertical 2 Touch Connector, V2T</title>
+    </circle>
+    <g
+       id="g945"
+       transform="matrix(0.26458333,0,0,0.26458333,22.287441,8.6198603)">
+      <title
+         id="title941">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,30 4,30 "
+         style="fill:#ff0000"
+         id="polygon943" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle949"
+       cx="23.833403"
+       cy="8.9769335"
+       r="0.79374999">
+      <title
+         id="title947">Vertical 2 Touch Connector, V2T</title>
+    </circle>
+  </g>
+</svg>

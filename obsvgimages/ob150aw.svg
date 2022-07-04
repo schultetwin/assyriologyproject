@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(-0.04594441,-0.26056371,0.26056371,-0.04594441,20.449322,9.7563485)">
+      <title
+         id="title853">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g858"
+       transform="matrix(-0.04594441,-0.26056371,0.26056371,-0.04594441,18.782398,7.9307235)">
+      <title
+         id="title854">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon856" />
+    </g>
+    <g
+       id="g864"
+       transform="matrix(0.04594441,-0.26056371,0.26056371,0.04594441,19.977363,12.73405)">
+      <title
+         id="title860">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon862" />
+    </g>
+    <g
+       id="g870"
+       transform="matrix(0.04594441,-0.26056371,0.26056371,0.04594441,18.222774,14.581636)">
+      <title
+         id="title866">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon868" />
+    </g>
+    <g
+       id="g857-5"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.1780722,11.264371)">
+      <title
+         id="title853-4">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,30 4,4 0,0 12,0 8,4 8,30 "
+         style="fill:#ff0000"
+         id="polygon855-0"
+         transform="translate(0,10.300223)" />
+    </g>
+    <g
+       id="g932"
+       transform="matrix(0.13229166,-0.22913589,0.22913589,0.13229166,6.1628469,4.1139039)">
+      <title
+         id="title928">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#ff0000"
+         id="polygon930"
+         transform="translate(1.0977831,14.4008)" />
+    </g>
+    <g
+       id="g938"
+       transform="matrix(-0.13229166,-0.22913589,0.22913589,-0.13229166,11.051843,16.36615)">
+      <title
+         id="title934">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon936"
+         transform="translate(-0.30333041,0.42560962)" />
+    </g>
+    <g
+       id="g857-4"
+       transform="matrix(0.26458333,0,0,0.26458333,9.4602038,4.3503059)">
+      <title
+         id="title853-5">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:#ff0000"
+         id="polygon855-3" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="19.22954"
+       cy="9.7328873"
+       r="0.79374999">
+      <title
+         id="title988">3 Touch Connector, 3T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle980"
+       cx="11.103052"
+       cy="5.0081844"
+       r="0.79374999">
+      <title
+         id="title982">Other 2 Touch Connector, O2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle986"
+       cx="11.150299"
+       cy="14.410342"
+       r="0.79374999">
+      <title
+         id="title984">Other 2 Touch Connector, O2T</title>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,65 12,70 0,70 4,65 "
+       style="fill:#ff0000"
+       id="polygon866"
+       transform="matrix(0,-0.26458333,0.26458333,0,8.4099705,9.1470242)">
+      <title
+         id="title880">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="0,70 4,65 4,4 0,0 12,0 8,4 8,65 12,70 "
+       style="fill:#ff0000"
+       id="polygon870"
+       transform="matrix(0,-0.26458333,0.26458333,0,8.4099705,13.565451)">
+      <title
+         id="title868">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon884"
+       transform="matrix(0.33072916,0,0,0.33072916,19.229539,9.1186751)">
+      <title
+         id="title900">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon898"
+       transform="matrix(0.33072916,0,0,0.33072916,18.142857,4.6774549)">
+      <title
+         id="title902">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

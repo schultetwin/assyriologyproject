@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#000000"
+       id="polygon1203"
+       transform="matrix(0.26458333,0,0,0.26458333,7.8524548,6.2082585)">
+      <title
+         id="title1217">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,0 12,0 8,4 8,35 12,40 0,40 4,35 4,4 "
+       style="fill:#000000"
+       id="polygon1171"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.486005,5.9144958)">
+      <title
+         id="title1185">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="8,4 8,35 12,40 0,40 4,35 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon1189"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.616406,12.88415)">
+      <title
+         id="title1187">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g1386"
+       transform="matrix(0.26458333,0,0,0.26458333,17.629755,3.2157458)">
+      <title
+         id="title1382">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#000000"
+         id="polygon1384" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="19.135044"
+       cy="11.386532"
+       r="0.79374999">
+      <title
+         id="title1419">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1415"
+       cx="19.229538"
+       cy="4.4412198"
+       r="0.79374999">
+      <title
+         id="title1417">Northeast Corner Connector, NEC</title>
+    </circle>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.616236"
+   height="15"
+   viewBox="0 0 4.3963789 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-18.496007,-8.2682291)">
+    <g
+       id="g1175"
+       transform="matrix(0.10845693,0,0,0.10845693,20.673697,9.5255558)">
+      <title
+         id="title1171">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon1173" />
+    </g>
+    <polygon
+       points="12,40 0,40 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:#ff0000"
+       id="polygon1210"
+       transform="matrix(0,-0.10845693,0.10845693,0,18.554108,11.274035)">
+      <title
+         id="title1234">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g1228"
+       transform="matrix(0.10845693,0,0,0.10845693,19.317986,9.5255558)">
+      <title
+         id="title1224">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,25 4,25 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon1226" />
+    </g>
+    <polygon
+       points="4,35 4,4 0,0 12,0 8,4 8,35 12,40 0,40 "
+       style="fill:#ff0000"
+       id="polygon1230"
+       transform="matrix(0,-0.10845693,0.10845693,0,18.496007,9.5697122)">
+      <title
+         id="title1232">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.108457"
+       id="circle1101"
+       cx="19.987289"
+       cy="10.662028"
+       r="0.32537079">
+      <title
+         id="title1105">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.108457"
+       id="circle1196"
+       cx="21.381735"
+       cy="10.623293"
+       r="0.32537079">
+      <title
+         id="title1194">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

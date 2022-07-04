@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:black"
+       id="polygon1203"
+       transform="matrix(0.26458333,0,0,0.26458333,4.0523584,9.4532961)">
+      <title
+         id="title1217">Heel Mark, HE</title>
+    </polygon>
+    <g
+       id="g1386"
+       transform="matrix(0.26458333,0,0,0.26458333,21.766232,5.7187802)">
+      <title
+         id="title1382">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:black"
+         id="polygon1384" />
+    </g>
+    <g
+       id="g908"
+       transform="matrix(0,-0.26458333,0.26458333,0,6.9627749,9.4797562)">
+      <title
+         id="title904">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,60 4,4 0,0 12,0 8,4 8,60 "
+         style="fill:black"
+         id="polygon906" />
+    </g>
+    <g
+       id="g914"
+       transform="matrix(0,-0.26458333,0.26458333,0,6.9627749,15.803296)">
+      <title
+         id="title910">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,60 4,60 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon912" />
+    </g>
+    
+   
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:black"
+       id="polygon918"
+       transform="matrix(0.26458333,0,0,0.26458333,26.872671,7.1381919)">
+      <title
+         id="title916">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:black"
+       id="polygon922"
+       transform="matrix(0.26458333,0,0,0.26458333,25.030037,11.626659)">
+      <title
+         id="title920">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

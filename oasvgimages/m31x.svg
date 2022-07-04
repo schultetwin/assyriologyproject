@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g886"
+       transform="matrix(0,-0.26458333,0.26458333,0,21.922618,10.407575)">
+      <title
+         id="title882">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon884" />
+    </g>
+    <g
+       id="g921"
+       transform="matrix(0,-0.26458333,0.26458333,0,15.355283,13.637381)">
+      <title
+         id="title917">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#ff0000"
+         id="polygon919" />
+    </g>
+    <g
+       id="g927"
+       transform="matrix(0,-0.26458333,0.26458333,0,8.8239682,13.637381)">
+      <title
+         id="title923">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,25 4,25 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon925" />
+    </g>
+    <g
+       id="g933"
+       transform="matrix(0,-0.26458333,0.26458333,0,15.355283,10.515298)">
+      <title
+         id="title929">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#ff0000"
+         id="polygon931" />
+    </g>
+    <g
+       id="g940"
+       transform="matrix(0,-0.26458333,0.26458333,0,8.7406992,10.515298)">
+      <title
+         id="title935">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,25 4,25 "
+         style="fill:#ff0000"
+         id="polygon938" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="22.206102"
+       cy="8.8920412"
+       r="0.79374999">
+      <title
+         id="title915">Horizontal 2 Touch Connector, H2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle944"
+       cx="15.638765"
+       cy="8.9865351"
+       r="0.79374999">
+      <title
+         id="title942">Horizontal 2 Touch Connector, H2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle948"
+       cx="15.827753"
+       cy="12.010345"
+       r="0.79374999">
+      <title
+         id="title946">Horizontal 2 Touch Connector, H2T</title>
+    </circle>
+    <g
+       id="g941"
+       transform="matrix(0,-0.26458333,0.26458333,0,21.922618,13.582575)">
+      <title
+         id="title936">Right Horizontal Mark, RH</title>
+      <polygon
+         points="12,0 8,4 8,25 4,25 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon939" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle945"
+       cx="22.253349"
+       cy="11.963097"
+       r="0.79374999">
+      <title
+         id="title943">Horizontal 2 Touch Connector, H2T</title>
+    </circle>
+  </g>
+</svg>

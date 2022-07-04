@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="8,15 4,15 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon1060"
+       transform="matrix(0.15175875,-0.21673398,0.21673398,0.15175875,6.2169137,12.814518)">
+      <title
+         id="title1070">Right Down Diagonal  Mark, RDD</title>
+    </polygon>
+    <polygon
+       points="8,15 4,15 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon1214"
+       transform="matrix(0.15175875,-0.21673398,0.21673398,0.15175875,9.0154124,9.1085232)">
+      <title
+         id="title1212">Right Down Diagonal  Mark, RDD</title>
+    </polygon>
+    <polygon
+       points="8,4 8,18 12,18 8,22 8,35 4,35 4,22 0,18 4,18 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon1232"
+       transform="matrix(0.15175877,-0.21673398,0.21673398,0.15175877,5.8519984,9.7770733)">
+      <title
+         id="title1246">Other Head-to-Tail Mark, OHT</title>
+    </polygon>
+  </g>
+</svg>

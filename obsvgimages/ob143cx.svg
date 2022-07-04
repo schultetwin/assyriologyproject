@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon862"
+       transform="matrix(0.26458333,0,0,0.26458333,29.406548,4.7247021)">
+      <title
+         id="title849">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <g
+       id="g857"
+       transform="matrix(-0.0684792,-0.25556787,0.25556787,-0.0684792,21.170889,10.072996)">
+      <title
+         id="title853">Right Up Diagonal Mark, RUD</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:#ff0000"
+         id="polygon855" />
+    </g>
+    <g
+       id="g888"
+       transform="matrix(0.0684792,-0.25556787,0.25556787,0.0684792,20.24132,13.046105)">
+      <title
+         id="title884">Right Down Diagonal Mark, RDD</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#ff0000"
+         id="polygon886" />
+    </g>
+    <polygon
+       points="12,40 0,40 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:#ff0000"
+       id="polygon866"
+       transform="matrix(0,-0.26458333,0.26458333,0,20.781169,6.8413687)">
+      <title
+         id="title880">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="4,65 4,4 0,0 12,0 8,4 8,65 12,70 0,70 "
+       style="fill:#ff0000"
+       id="polygon912"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.975961,16.286956)">
+      <title
+         id="title910">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g857-1"
+       transform="matrix(0.26458333,0,0,0.26458333,17.209294,5.1215395)">
+      <title
+         id="title853-4">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,35 4,35 4,4 "
+         style="fill:#ff0000"
+         id="polygon855-2" />
+    </g>
+    <g
+       id="g948"
+       transform="matrix(0.26458333,0,0,0.26458333,13.47867,5.1215395)">
+      <title
+         id="title944">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,35 4,35 4,4 0,0 12,0 8,4 "
+         style="fill:#ff0000"
+         id="polygon946" />
+    </g>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon962"
+       transform="matrix(0.26458333,0,0,0.26458333,11.520753,5.1215395)">
+      <title
+         id="title976">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon980"
+       transform="matrix(0.26458333,0,0,0.26458333,9.3511706,5.1215395)">
+      <title
+         id="title978">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon984"
+       transform="matrix(0.26458333,0,0,0.26458333,11.520753,8.5346645)">
+      <title
+         id="title982">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="0,6 6,0 6,12 "
+       style="fill:#ff0000"
+       id="polygon988"
+       transform="matrix(0.26458333,0,0,0.26458333,9.3511706,8.5346645)">
+      <title
+         id="title986">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="8,40 4,40 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon855-3"
+       transform="matrix(-0.028533,-0.10648661,0.10648661,-0.028533,6.9074702,14.708294)">
+      <title
+         id="title1059">Right Up Diagonal Mark, RUD</title>
+    </polygon>
+    <polygon
+       points="8,40 4,40 4,4 0,0 12,0 8,4 "
+       style="fill:#ff0000"
+       id="polygon1053"
+       transform="matrix(-0.028533,-0.10648661,0.10648661,-0.028533,7.919798,15.863465)">
+      <title
+         id="title1061">Right Up Diagonal Mark, RUD</title>
+    </polygon>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="30.602362"
+       cy="14.432553"
+       r="0.79374999">
+      <title
+         id="title1087">3 Touch Connector, 3T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1079"
+       cx="15.100728"
+       cy="14.499371"
+       r="0.79374999">
+      <title
+         id="title1081">Bottom 2 Touch Connector, B2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1085"
+       cx="18.884371"
+       cy="14.499371"
+       r="0.79374999">
+      <title
+         id="title1083">Bottom 2 Touch Connector, B2T</title>
+    </circle>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1091"
+       cx="30.735996"
+       cy="5.612659"
+       r="0.79374999">
+      <title
+         id="title1089">3 Touch Connector, 3T</title>
+    </circle>
+  </g>
+</svg>

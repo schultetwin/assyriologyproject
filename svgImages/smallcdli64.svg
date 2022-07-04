@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="24.211481"
+   height="15"
+   viewBox="0 0 6.4059542 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-16.262796,-8.079241)">
+    <polygon
+       points="12,0 8,4 8,30 12,35 0,35 4,30 4,4 0,0 "
+       style="fill:#ff0000"
+       id="polygon851"
+       transform="matrix(0,-0.13317953,0.13317953,0,16.262796,9.6773954)">
+      <title
+         id="title971">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="0,18 4,18 4,4 0,0 12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 "
+       style="fill:#ff0000"
+       id="polygon877"
+       transform="matrix(0,-0.13317953,0.13317953,0,16.276114,11.768314)">
+      <title
+         id="title973">Right Horizontal Head-to-Tail Mark, RHHT</title>
+    </polygon>
+    <g
+       id="g940"
+       transform="matrix(0.13317953,0,0,0.13317953,21.070597,8.7185027)">
+      <title
+         id="title936">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon938" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.133179"
+       id="path839"
+       cx="21.665148"
+       cy="10.972053"
+       r="0.39953861">
+      <title
+         id="title977">Right 2 Touch Connector, R2T</title>
+    </circle>
+  </g>
+</svg>

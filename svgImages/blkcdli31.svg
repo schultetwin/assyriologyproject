@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#000000"
+       id="polygon967"
+       transform="matrix(0.26458333,0,0,0.26458333,19.787016,3.4720893)">
+      <title
+         id="title965">Heel Mark Overwrite, OHE</title>
+    </polygon>
+    <g
+       id="g1003"
+       transform="matrix(0.26458333,0,0,0.26458333,24.303869,4.91369)">
+      <title
+         id="title999">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon1001" />
+    </g>
+    <g
+       id="g1020"
+       transform="matrix(0.26458333,0,0,0.26458333,21.128869,4.91369)">
+      <title
+         id="title1016">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon1018" />
+    </g>
+    <g
+       id="g1026"
+       transform="matrix(0.26458333,0,0,0.26458333,17.953869,4.91369)">
+      <title
+         id="title1022">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#000000"
+         id="polygon1024" />
+    </g>
+    <g
+       id="g1032"
+       transform="matrix(0.26458333,0,0,0.26458333,14.778869,4.91369)">
+      <title
+         id="title1028">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon1030" />
+    </g>
+    <g
+       id="g1052"
+       transform="matrix(0,-0.26458333,0.26458333,0,10.653184,8.1642478)">
+      <title
+         id="title1048">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,72 4,72 4,4 "
+         style="fill:#000000"
+         id="polygon1050" />
+    </g>
+    <polygon
+       points="8,28 12,28 8,32 8,60 4,60 4,32 0,28 4,28 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon1077"
+       transform="matrix(0.0684792,-0.25556787,0.25556787,0.0684792,10.653712,12.622241)">
+      <title
+         id="title1128">Right Down Diagonal Mark, RDD</title>
+    </polygon>
+    <g
+       id="g1095"
+       transform="matrix(0.26458333,0,0,0.26458333,6.4633929,4.819196)">
+      <title
+         id="title1091">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon1093" />
+    </g>
+    <g
+       id="g1115"
+       transform="matrix(0,-0.26458333,0.26458333,0,4.8608791,10.402062)">
+      <title
+         id="title1111">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#000000"
+         id="polygon1113" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="22.67857"
+       cy="14.221354"
+       r="0.79374999">
+      <title
+         id="title1174">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1146"
+       cx="19.702007"
+       cy="13.134674"
+       r="0.79374999">
+      <title
+         id="title1172">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1148"
+       cx="16.347469"
+       cy="12.331473"
+       r="0.79374999">
+      <title
+         id="title1170">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1150"
+       cx="8.0319939"
+       cy="8.6462049"
+       r="0.79374999">
+      <title
+         id="title1162">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1152"
+       cx="16.394716"
+       cy="6.5200887"
+       r="0.79374999">
+      <title
+         id="title1178">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1154"
+       cx="25.985863"
+       cy="15.119048"
+       r="0.79374999">
+      <title
+         id="title1176">Southeast Corner Connector, SEC</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1156"
+       cx="25.844122"
+       cy="6.614584"
+       r="0.79374999">
+      <title
+         id="title1168">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1158"
+       cx="22.725821"
+       cy="6.5200901"
+       r="0.79374999">
+      <title
+         id="title1166">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1160"
+       cx="19.607519"
+       cy="6.567337"
+       r="0.79374999">
+      <title
+         id="title1164">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

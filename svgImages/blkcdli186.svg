@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,10 4,10 "
+       style="fill:#000000"
+       id="polygon886"
+       transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,11.312932,7.2268954)">
+      <title
+         id="title918">Right Down Diagonal Mark, RDD</title>
+    </polygon>
+    <polygon
+       points="12,0 8,4 8,10 4,10 4,4 0,0 "
+       style="fill:#000000"
+       id="polygon901"
+       transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,14.680528,7.2570661)">
+      <title
+         id="title916">Right Down Diagonal Mark, RDD</title>
+    </polygon>
+    <polygon
+       points="4,4 0,0 12,0 8,4 8,10 4,10 "
+       style="fill:#000000"
+       id="polygon903"
+       transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,17.995106,7.2343119)">
+      <title
+         id="title914">Right Down Diagonal Mark, RDD</title>
+    </polygon>
+    <polygon
+       points="8,4 8,10 4,10 4,4 0,0 12,0 "
+       style="fill:#000000"
+       id="polygon905"
+       transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,11.687109,10.594491)">
+      <title
+         id="title922">Right Down Diagonal Mark, RDD</title>
+    </polygon>
+    <polygon
+       points="12,0 8,4 8,10 4,10 4,4 0,0 "
+       style="fill:#000000"
+       id="polygon907"
+       transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,15.054705,10.704058)">
+      <title
+         id="title920">Right Down Diagonal Mark, RDD</title>
+    </polygon>
+  </g>
+</svg>

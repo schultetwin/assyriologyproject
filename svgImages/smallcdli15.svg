@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="24.754616"
+   height="15"
+   viewBox="0 0 6.5496586 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-18.411554,-8.1737351)">
+    <g
+       id="g256"
+       transform="matrix(0,-0.11202234,0.11202234,0,18.359544,9.343958)">
+      <title
+         id="title252">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,57 4,57 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon254"
+         transform="translate(-12.199714,0.46428666)" />
+    </g>
+    <polygon
+       points="0,0 12,0 8,4 8,57 4,57 4,4 "
+       style="fill:#ff0000"
+       id="polygon329"
+       transform="matrix(-0.05601117,-0.09701419,0.09701419,-0.05601117,19.655449,12.142485)">
+      <title
+         id="title397">Right Up Diagonal Mark, RUD</title>
+    </polygon>
+    <g
+       id="g383"
+       transform="matrix(0.11202234,0,0,0.11202234,21.508172,9.7120313)">
+      <title
+         id="title379">2 Cross Connector, 2C</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle381" />
+    </g>
+  </g>
+</svg>

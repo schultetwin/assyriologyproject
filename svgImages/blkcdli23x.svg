@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g1086"
+       transform="matrix(0.26458333,0,0,0.26458333,18.006899,4.9136905)">
+      <title
+         id="title1082">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:#000000"
+         id="polygon1084" />
+    </g>
+    <polygon
+       points="8,35 12,40 0,40 4,35 4,4 0,0 12,0 8,4 "
+       style="fill:#000000"
+       id="polygon1248"
+       transform="matrix(0,-0.26458333,0.26458333,0,8.202083,12.148155)">
+      <title
+         id="title892">Right Horizontal Barbell, RHBB</title>
+    </polygon>
+    <polygon
+       points="12,40 0,40 4,35 4,4 0,0 12,0 8,4 8,35 "
+       style="fill:#000000"
+       id="polygon872"
+       transform="matrix(0,-0.26458333,0.26458333,0,20.061086,12.242649)">
+      <title
+         id="title894">Right Horizontal Barbell, RHBB</title>
+    </polygon>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="20.268972"
+       cy="10.725074"
+       r="0.79374999">
+      <title
+         id="title890">Left 2 Touch Connector, L2T</title>
+    </circle>
+  </g>
+</svg>

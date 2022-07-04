@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="12,0 8,4 8,18 12,18 8,22 8,40 4,40 4,22 0,18 4,18 4,4 0,0 "
+       style="fill:#ff0000"
+       id="polygon882"
+       transform="matrix(0.26458333,0,0,0.26458333,27.633875,5.1026786)">
+      <title
+         id="title1014">Down Vertical Head-to-Tail Mark, DVHT</title>
+    </polygon>
+    <g
+       id="g1012"
+       transform="matrix(0,-0.26458333,0.26458333,0,18.108875,8.2776786)">
+      <title
+         id="title1008">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon1010" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle1038"
+       cx="29.009674"
+       cy="6.614584"
+       r="0.79374999">
+      <title
+         id="title1046">Northeast Corner Connector, NEC</title>
+    </circle>
+    <g
+       id="g1058"
+       transform="matrix(0,-0.26458333,0.26458333,0,18.108875,15.676562)">
+      <title
+         id="title1054">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:#ff0000"
+         id="polygon1056" />
+    </g>
+    <circle
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="28.962425"
+       cy="14.079615"
+       r="0.79374999">
+      <title
+         id="title1048">Southeast Corner Connector, SEC</title>
+    </circle>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1072"
+       transform="matrix(0.26458333,0,0,0.26458333,25.18066,8.5706105)">
+      <title
+         id="title1090">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,0 6,12 0,6 "
+       style="fill:#ff0000"
+       id="polygon1086"
+       transform="matrix(0.26458333,0,0,0.26458333,22.593526,8.5706103)">
+      <title
+         id="title1092">Heel Mark, HE</title>
+    </polygon>
+    <polygon
+       points="6,12 0,6 6,0 "
+       style="fill:#ff0000"
+       id="polygon1088"
+       transform="matrix(0.26458333,0,0,0.26458333,20.042187,8.6651045)">
+      <title
+         id="title1094">Heel Mark, HE</title>
+    </polygon>
+  </g>
+</svg>

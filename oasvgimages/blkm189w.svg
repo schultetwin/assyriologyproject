@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g82"
+       transform="matrix(0.26458333,0,0,0.26458333,11.98759,5.4816753)">
+      <title
+         id="title78">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,4 0,0 12,0 8,4 8,40 4,40 "
+         style="fill:black"
+         id="polygon80"
+         transform="translate(0.17857143,5.1785715)" />
+    </g>
+    <g
+       id="g88"
+       transform="matrix(0.26458333,0,0,0.26458333,31.164137,6.7941232)">
+      <title
+         id="title84">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:black"
+         id="polygon86" />
+    </g>
+    <g
+       id="g962"
+       transform="matrix(0.26458333,0,0,0.26458333,8.6802987,5.4769883)">
+      <title
+         id="title958">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,40 4,40 4,4 0,0 12,0 "
+         style="fill:black"
+         id="polygon960"
+         transform="translate(0.17857143,5.1785715)" />
+    </g>
+    <g
+       id="g1013"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.4683035,19.494123)">
+      <title
+         id="title1009">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,90 4,90 4,4 "
+         style="fill:black"
+         id="polygon1011" />
+    </g>
+    <g
+       id="g1030"
+       transform="matrix(0.26458333,0,0,0.26458333,27.883227,6.4681175)">
+      <title
+         id="title1026">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,40 4,40 4,4 0,0 12,0 8,4 "
+         style="fill:black"
+         id="polygon1028"
+         transform="translate(0.17857143,5.1785715)" />
+    </g>
+    <g
+       id="g1036"
+       transform="matrix(0.26458333,0,0,0.26458333,24.787602,6.4945758)">
+      <title
+         id="title1032">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,40 4,40 4,4 "
+         style="fill:black"
+         id="polygon1034"
+         transform="translate(0.17857143,5.1785715)" />
+    </g>
+    <g
+       id="g1042"
+       transform="matrix(0.26458333,0,0,0.26458333,21.586144,6.4945758)">
+      <title
+         id="title1038">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,40 4,4 0,0 12,0 8,4 8,40 "
+         style="fill:black"
+         id="polygon1040"
+         transform="translate(0.17857143,5.1785715)" />
+    </g>
+    <g
+       id="g1048"
+       transform="matrix(0.26458333,0,0,0.26458333,18.411144,6.4681175)">
+      <title
+         id="title1044">Down Vertical Mark, DV</title>
+      <polygon
+         points="12,0 8,4 8,40 4,40 4,4 0,0 "
+         style="fill:black"
+         id="polygon1046"
+         transform="translate(0.17857143,5.1785715)" />
+    </g>
+    <g
+       id="g1054"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.5211444,25.738402)">
+      <title
+         id="title1050">Right Horizontal Mark, RH</title>
+      <polygon
+         points="0,0 12,0 8,4 8,60 4,60 4,4 "
+         style="fill:black"
+         id="polygon1052"
+         transform="translate(48.035715,26.428572)" />
+    </g>
+    <g
+       id="g1060"
+       transform="matrix(0,-0.26458333,0.26458333,0,9.5211444,28.83395)">
+      <title
+         id="title1056">Right Horizontal Mark, RH</title>
+      <polygon
+         points="4,60 4,4 0,0 12,0 8,4 8,60 "
+         style="fill:black"
+         id="polygon1058"
+         transform="translate(48.035715,26.428572)" />
+    </g>
+    
+    
+    
+    
+   
+   
+   
+   
+   
+    
+    
+    
+    
+    
+  
+    
+   
+  </g>
+</svg>

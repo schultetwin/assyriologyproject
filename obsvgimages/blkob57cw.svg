@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="80"
+   viewBox="0 0 42.333332 21.166667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <polygon
+       points="0,45 4,40 4,4 0,0 12,0 8,4 8,40 12,45 "
+       style="fill:#000000"
+       id="polygon866"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.425967,10.294182)">
+      <title
+         id="title880">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <polygon
+       points="4,40 4,4 0,0 12,0 8,4 8,40 12,45 0,45 "
+       style="fill:#000000"
+       id="polygon1070"
+       transform="matrix(0,-0.26458333,0.26458333,0,12.425967,14.236473)">
+      <title
+         id="title1068">Right Horizontal Barbell Mark, RHBB</title>
+    </polygon>
+    <g
+       id="g877"
+       transform="matrix(0.26458333,0,0,0.26458333,15.243704,9.0714284)">
+      <title
+         id="title873">Down Vertical Mark, DV</title>
+      <polygon
+         points="8,4 8,25 4,25 4,4 0,0 12,0 "
+         style="fill:#000000"
+         id="polygon875" />
+    </g>
+    <g
+       id="g894"
+       transform="matrix(0.26458333,0,0,0.26458333,18.286411,9.0714284)">
+      <title
+         id="title890">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,25 4,25 4,4 "
+         style="fill:#000000"
+         id="polygon892" />
+    </g>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path839"
+       cx="19.84375"
+       cy="12.614955"
+       r="0.79374999">
+      <title
+         id="title920">2 Cross Connector, 2C</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle912"
+       cx="19.890997"
+       cy="9.1659222"
+       r="0.79374999">
+      <title
+         id="title914">Top 2 Touch Connector, T2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle918"
+       cx="16.867188"
+       cy="9.1186752"
+       r="0.79374999">
+      <title
+         id="title916">Top 2 Touch Connector, T2T</title>
+    </circle>
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="circle924"
+       cx="16.819941"
+       cy="12.709449"
+       r="0.79374999">
+      <title
+         id="title922">2 Cross Connector, 2C</title>
+    </circle>
+  </g>
+</svg>

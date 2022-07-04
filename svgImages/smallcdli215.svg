@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="15.74992"
+   height="15"
+   viewBox="0 0 4.1671662 3.9687501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-19.413813,-8.5044643)">
+    <g
+       id="g495"
+       transform="matrix(0.04960937,0,0,0.04960937,19.413813,8.688019)">
+      <title
+         id="title491">Down Vertical Mark, DV</title>
+      <polygon
+         points="0,0 12,0 8,4 8,72 4,72 4,4 "
+         style="fill:#ff0000"
+         id="polygon493" />
+    </g>
+    <g
+       id="g512"
+       transform="matrix(0.04960937,0,0,0.04960937,22.985667,8.6979408)">
+      <title
+         id="title508">Down Vertical Mark, DV</title>
+      <polygon
+         points="4,72 4,4 0,0 12,0 8,4 8,72 "
+         style="fill:#ff0000"
+         id="polygon510" />
+    </g>
+    <g
+       id="g518"
+       transform="matrix(0,-0.04960937,0.04960937,0,19.61225,9.0997768)">
+      <title
+         id="title514">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,72 4,72 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon516" />
+    </g>
+    <g
+       id="g524"
+       transform="matrix(0,-0.04960937,0.04960937,0,19.61225,12.473214)">
+      <title
+         id="title520">Right Horizontal Mark, RH</title>
+      <polygon
+         points="8,4 8,72 4,72 4,4 0,0 12,0 "
+         style="fill:#ff0000"
+         id="polygon522" />
+    </g>
+    <g
+       id="g376"
+       transform="matrix(0.04960937,0,0,0.04960937,23.106168,8.6763254)">
+      <title
+         id="title372">Northeast Corner Connector, NEC</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle374" />
+    </g>
+    <g
+       id="g423"
+       transform="matrix(0.04960937,0,0,0.04960937,19.562641,8.6586077)">
+      <title
+         id="title419">Northwest Corner Connector, NWC</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle421" />
+    </g>
+    <g
+       id="g417"
+       transform="matrix(0.04960937,0,0,0.04960937,19.615794,12.033817)">
+      <title
+         id="title413">Southwest Corner Connector, SWC</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle415" />
+    </g>
+    <g
+       id="g393"
+       transform="matrix(0.04960937,0,0,0.04960937,23.150462,12.016099)">
+      <title
+         id="title389">Southeast Corner Connector, SEC</title>
+      <circle
+         cx="3"
+         cy="3"
+         r="3"
+         style="fill:#008000"
+         id="circle391" />
+    </g>
+  </g>
+</svg>
