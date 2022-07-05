@@ -15,4 +15,7 @@ jobs:
         username: ${{ secrets.SSH_USER_NAME }}
         port: ${{ secrets.SSH_PORT }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        script: whoami
+        script: |
+          cd /var/www/archnaylor.dev
+          git fetch origin
+          git reset --hard origin/main
