@@ -1,6 +1,6 @@
 <?php
 
-require('db_params.php')
+require('db_params.php');
 
 function getMysqliConnection() {
     global $db_host, $db_user, $db_pass, $db_name;
