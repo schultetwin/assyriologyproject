@@ -1,4 +1,5 @@
 <?php 
+   require('database.php');
   //Starting session
   session_start();
 /*This creates for this user a temporay global associative array $_SESSION in the server which is accessible from all pages. The user can write and read key-value pairs to and from it.*/
@@ -102,10 +103,7 @@
 <!--There are two ways to arrive at this page.  The first way is by pressing the submit button (name "modify1") on the previous page.  This will always be the first arrival.  The second way is by pressing the modify button (name "modify2") below on this page.  The global variable $_POST is used in both case and is not the same value in both cases.     -->
 
 <?php /* This is just a short script for connecting to the database.  */
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno()) {
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();}
+$conn = getMysqliConnection();
 ?>
 <!-- Now we are back to html. -->
 <div class="title2" id="title2"><b>NEO BABYLONIAN SIGN MODIFICATION</b></div>

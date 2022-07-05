@@ -9,13 +9,6 @@
 	<body>
 
 
-<?php
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno()) {
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();}
-?>
-
 <p> 
 This system is meant to evolve as it is used, with the users modifying and adding sign information. At the moment this capability is limited as follows:
  </p>

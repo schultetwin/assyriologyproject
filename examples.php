@@ -9,13 +9,6 @@
 	<body>
 
 
-<?php
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno()) {
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();}
-?>
-
 <p>
 <i>
 This is not the final version.  It is a collection of topics.  The final version will be much smoother.

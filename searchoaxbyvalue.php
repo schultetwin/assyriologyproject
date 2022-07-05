@@ -12,12 +12,8 @@
 /*  Beginning of a php SCRIPT  */
 
 /*  The following is the standard connection to the database.  */
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno())
-{
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();
-}
+require('database.php')
+$conn = getMysqliConnection();
 
 $count = 1;
 $searchbyvalue = $_POST['SEARCHBYVALUE'];

@@ -20,10 +20,8 @@ label {
 
 
 <?php
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno()) {
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();}
+require('database.php');
+$conn = getMysqliConnection();
 
 // print($_POST['xencoded']);
 $xxoutput = unserialize(base64_decode($_POST['xencoded']));

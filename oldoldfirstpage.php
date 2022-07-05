@@ -13,14 +13,9 @@ button { font-size: 3vw; }
 
   <body>
      <?php 
-	
        /*  The following is the standard connection to the database.  */
-       $conn = mysqli_connect('127.0.0.1', 'root', '', 'dbsigns', '3308');
-       if (mysqli_connect_errno())
-         {
-           echo "Failed to connect to MySQL: " . mysqli_connect_error();
-           exit();
-         }
+       require('database.php');
+       $conn = getMysqliConnection();
 
       if (isset($_POST['submit'])): 
       /* This php script is executed after the form at bottom of this page is submitted. */

@@ -23,12 +23,8 @@ If for some reason you want to modify the entry in the database for one of these
 /*  Beginning of a php SCRIPT  */
 
 /*  The following is the standard connection to the database.  */
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno())
-{
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();
-}
+require('database.php');
+$conn = getMysqliConnection();
 
 /* AN OUTPUT,  $anoutput, IS A MULTIDIMENSIONAL ARRAY WITH THREE PARTS.  THE FIRST PART IS THE ASSOCIATIVE ARRAY $tvectorvals, THE INPUT.  IT IS INITIALIZED WITH A FIRST KEY=>VALUE PAIR 'MAXDT' => 4. THE SECOND PART $xvectorvals COMES FROM THE TABLE IN THE DATABASE.  IT IS INITIALIZED WITH 'id' => 0.  THE THIRD PART IS WHERE distance IS RECORDED. */
 

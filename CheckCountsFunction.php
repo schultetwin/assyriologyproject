@@ -6,14 +6,10 @@
 </head>
 <body>
 <?php
+require('database.php');
 echo "Hello World";
 /*  The following is the standard connection to the database.  */
-$conn = mysqli_connect('127.0.0.1', 'root', '', 'dbassyriology', '3308');
-if (mysqli_connect_errno())
-{
-   echo "Failed to connect to MySQL: " . mysqli_connect_error();
-   exit();
-};
+$conn = getMysqliConnection();
 $query = "SELECT * FROM nbxvectors";                                          
 if ($result = mysqli_query($conn, $query))                                        
 WHILE ($row = mysqli_fetch_assoc($result)) {
