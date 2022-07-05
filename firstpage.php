@@ -58,11 +58,13 @@
   <div class="bigcontainer">
       
 	<div class="header2">  
+<p><i>This work is a creation of Arch Naylor, who passed in May of 2022. In his memory, it is open to anyone that would like to use it. Code fixes/improvements may be made on <a href="https://github.com/schultetwin/assyriologyproject">Github</a>.</i>
+
 <p><i>This is a work in progress.  The Kanesh, Old Babylonian, and Neo-Babylonian sections are advanced versions.    The Nuzi section will be updated once I find a list of logograms used in Nuzi.  In any event, all sections can be used to look up signs.</i></p>  
 
               <p style = "text-align:center; font-size: 3vw;"> LOOKING UP CUNEIFORM SIGNS </p>
               <p style ="text-align:center; font-size: 2vw;">Arch Naylor</p>
-              <p style ="text-align:center; font-size: 2vw;">arch.naylor@gmail.com</p> <br>
+              <p style ="text-align:center; font-size: 2vw;">Republished by Mark Schulte</p>
 	</div>             
              <p style ="text-align:center; font-size: 2vw;">The following two signs are illustrations of how this systems works: </p>
               <p style ="text-align:center; font-size: 2vw;"> you count <span style=color:red><b>marks</b></span>                     and <span style=color:green><b>connectors</b></span>.</p>
