@@ -4,12 +4,14 @@ require('db_params.php');
 
 function getMysqliConnection() {
     global $db_host, $db_user, $db_pass, $db_name;
-    $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name, '3308');
-    if (mysqli_connect_errno()) {
-        echo "Failed to connect to MySQL: " . mysqli_connect_error();
-	exit();
+    $mysqli = mysqli_init();
+    if (!$mysqli) {
+        die("mysqli_init failed");
     }
-    return $conn;
+
+    $mysqli->ssl_set(NULL, NULL, "/etc/ssl/certs/ca-certificates.crt", NULL, NULL);
+    $mysqli->real_connect($db_host, $db_user, $db_pass, $db_name);
+    return $mysqli;
 }
 
 ?>
