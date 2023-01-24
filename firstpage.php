@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arch Naylor's Assyriology Project</title>
-    <link rel="stylesheet" href="menu.css">
-    
-</head>
-<body>
- <?php 
+<?php
 /* Beginning of php script. */	
        /* The following  php script is skipped until $_POST['submit'] is set. That happens after the submit button in the form at the end of this page has been pushed.  Since the action="" in that form, this page is started again and  $_POST['submit'] will be set and this php script will be executed. */ 
       
@@ -28,6 +18,16 @@
 
             
       else:  ?>   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arch Naylor's Assyriology Project</title>
+    <link rel="stylesheet" href="menu.css">
+    
+</head>
+<body>
 <!-- This is the end of the php script.  What follows is html. Here "else" means the remainder of this page.  What follows is, first, the setup for the header, second, the intro remarks, third, the two .svg files for the two signs, fourth, the form. -->
 
 
